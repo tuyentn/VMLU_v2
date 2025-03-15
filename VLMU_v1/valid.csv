@@ -1,0 +1,120 @@
+id_prefix,question
+01,"Hình tròn có bán kính 2,5cm, chu vi hình tròn là:"
+01,Một hình lập phương có cạnh 2dm thì diện tích toàn phần là:
+02,Giữa nam nữ có khác về:
+02,"Để phòng bệnh viêm gan A, phải làm gì ?"
+03,Nếu tiểu não bị cắt bỏ sẽ làm:
+03,"Lấy kim chích nhẹ vào chân một người đang ngủ, chân người đó tự co lại. Đây là phản xạ đơn giản, vô ý thức, có trung khu ở:"
+04,"Một lượng lớn nước thải công nghiệp chưa qua xử lí đổ trực tiếp ra sông suối là nguyên nhân gây ô nhiễm môi trường tại nhiều khu vực trên đất nước ta. Để xử lí sơ bộ mẫu nước thải chứa các ion Pb^{2+},{Fe}^{3+}{,}Cu^{2+},Hg^{2+},... người ta có thể dùng"
+04,"Trong các chất sau: etan, propen, benzen, glyxin, stiren. Chất có phản ứng trùng hợp để tạo ra được polime là"
+05,Tìm x để hai vectơ \vec{a}=(x;{-}2) và \vec{b}=(4;{-}5) có giá vuông góc với nhau
+05,Biết hệ phương trình \begin{cases}\frac{6}{x}+\frac{5}{y}=3\\ \frac{9}{x}-\frac{10}{y}=1\end{cases} có 1 nghiệm \left(x;{y}\right). Hiệu y-x là
+06,Chuyển động của đinh vít khi chúng ta vặn nó vào tấm gỗ là
+06,Đồ thị tọa độ - thời gian của chất điểm chuyển động thẳng đều là đường thẳng
+07,"Theo quan điểm của Đacuyn, nguyên liệu của chọn lọc tự nhiên là"
+07,"Theo lí thuyết, phép lai nào sau đây tạo ra đời con có kiểu gen aa chiếm tỉ lệ 25%?"
+08,Polime nào sau đây thuộc loại polime bán tổng hợp?
+08,Chất nào sau đây là tripeptit?
+09,Khẳng định nào dưới đây đúng?
+09,"Trong không gian Oxyz, cho đường thẳng d:{\frac{x-2}{1}}=\frac{y-1}{-2}=\frac{z+1}{3}. Điểm nào dưới đây thuộc d?"
+10,Một con lắc lò xo gồm vật nhỏ khối lượng m và lò xo nhẹ có độ cứng k đang dao động điều hòa. Đại lượng T=2\pi\sqrt{\frac{m}{k}} được gọi là
+10,Sóng truyền trên một sợi dây có hai đầu cố định với bước sóng \lambda. Muốn có sóng dừng trên dây thì chiều dài l của dây thỏa mãn công thức nào sau đây?
+11,"Một máy tính sử dụng bộ vi xử lý Intel Pentium có độ rộng của đường bus địa chỉ (Address Bus) là 32 bit. Hỏi với máy tính này, dung lượng tối đa của bộ nhớ chính là bao nhiêu?"
+11,Chức năng chính của tập các thanh ghi (Registers) là:
+12,Phần mềm của máy tính là:
+12,Việc trao đổi dữ liệu giữa thiết bị ngoại vi và máy tính được thực hiện qua:
+13,Lớp nào trong mô hình OSI thực hiện việc chọn đường và chuyển tiếp thông tin; thực hiện kiểm soát luồng dữ liệu và cắt/hợp dữ liệu?
+13,Phương thức trao đổi thông tin nào mà trong đó cả hai bên đều có thể đồng thời gửi dữ liệu đi ?
+14,Cho biết số phần tử của A\cup B\cup C nếu mỗi tập có 100 phần tử và nếu có 50 phần tử chung của mỗi cặp 2 tập và có 10 phần tử chung của cả 3 tập.
+14,"Cho X=\left \{ 1,2,3,4,5,6,7,8,9 \right \} A=\left \{ 1,2,3,8 \right \}, B=\left \{2,4,8,9 \right \}, C=\left \{ 6,7,8,9 \right \}
+Tìm xâu bit biểu diễn tập: \left ( A\cup B \right )\cap C"
+15,Một BJT có cấu tạo để vùng base của nó rất mỏng và . . . . ..
+15,"Trong một BJT, dòng base là . . . . . . . . . . . . . . . . . . khi được so với hai dòng collector và
+emitter.."
+16,"Chọn phát biểu đúng: Phản ứng A (k) \rightleftharpoons  B (k) + C (k) ở 300^oC có Kp = 100, ở 500^oC có Kp = 150. Vậy phản ứng trên là một quá trình:"
+16,"Cho 3 dung dịch nước (dd) BaCl_2, Na_2CO_3, NaCl và nước nguyên chất. BaCO_3 tan nhiều hơn cả trong:"
+17,Chọn câu sai. Theo cơ học tương đối thì:
+17,Chọn câu sai:
+18,Nếu x là một biến toàn cục và x không phải là một con trỏ thì:
+18,Một biến được gọi là một biến địa phương nếu:
+19,"Nếu các thiết bị đo có cùng cấp chính xác, thì phép đo trực tiếp có sai số:"
+19,Để giảm nhỏ sai số hệ thống thường dùng phương pháp:
+20,Kernel của Hệ điều hành là gì?
+20,Shell của Hệ điều hành là gì?
+21,"Hai công ty A và B cùng kinh doanh một mặt hàng một cách độc lập. Xác suất để công ty A lỗ là 0,2 và Xác suất để công ty B lỗ là 0,4. Xác suất để chỉ có một công ty lỗ là:"
+21,Biến cố đối lập của biến cố A + B là biến cố:
+22,Hành vi nào sau đây thực hiện đúng quyền tự do kinh doanh?
+22,Hoạt động nào sau đây là hoạt động kinh doanh.?
+23,Đông Nam Bộ KHÔNG giáp vùng kinh tế nào sau đây?
+23,Đặc điểm địa hình đặc trưng của Đông Nam Bộ là:
+24,"Theo yêu cầu của quy luật giá trị, tổng giá cả hàng hóa sau khi bán so với tổng giá trị hàng hóa được
+tạo ra trong quá trình sản xuất phải"
+24,Một trong những mục đích của việc áp dụng trách nhiệm pháp lý đối với người vi phạm pháp luật là
+25,"Căn cứ vào Atlat địa lí Việt Nam trang 19, cho biết tỉnh nào có diện tích trồng cây công nghiệp lâu năm hơn trồng cây công nghiệp hàng năm trong số các tỉnh sau đây?"
+25,"Căn cứ vào Atlat địa lí Việt Nam trang 9, cho biết trong các trạm khí tượng sau đây, trạm nào có chênh lệch nhiệt độ giữa tháng I và tháng VII thấp nhất?"
+26,Ghép sao cho đúng giải thích về vai trò của quản trị kinh doanh: “quản trị kinh doanh có vai trò quan trọng trong việc sử dụng tối ưu các nguồn lực sẵn có và tận dụng mọi cơ hội tốt nhất trong quá trình sản xuất kinh doanh…”
+26,Ghép sao cho đúng giải thích về vai trò của quản trị doanh nghiệp hoạt động quản trị kinh doanh: “giúp cho doanh nghiệp xác định được nên sản xuất cái gì số lượng bao nhiêu bằng cách nào và sản xuất cho ai …”
+27,Chọn đáp án trả lời đúng cho câu hỏi: Hồ Chí Minh đã từng dạy học bá ngôi trường nào?
+27,Tìm một điểm nhầm lẫn trong đoạn viết sau đây: Một trong những nguồn gốc của tư tưởng Hồ Chí Minh là tiếp văn hóa phương Đông. Cụ thể là:
+28,Hoạt động nào sau đây của ngân hàng Trung Ương sẽ làm tăng cơ sở tiền tệ
+28,Những yếu tố nào sau đây có thể dẫn đến thâm hụt cán cân thương mại của một nước:
+29,Một người tiêu thụ dành một số tiền nhất định để chi tiêu cho 2 sản phẩm X và Y. Nếu X là loại hàng xa xỉ thì khi giá của X tăng lên và các yếu tố khác không đổi thì lượng hàng hóa của Y được mua sẽ:
+29,Đường tiêu thụ giá cả là đường biểu thị mối quan hệ giữa:
+30,Trong các câu nói sau đây đâu là cách diễn đạt mặt thứ nhất của vấn đề cơ bản của triết học?
+30,"Trong các câu sau, đâu là cách diễn đạt về mặt thứ hai của vấn đề cơ bản của triết học?"
+31,Các loại chuẩn mực xã hội bất thành văn?
+31,Các nhân tố ảnh hưởng đến tính cơ động xã hội?
+32,Người tổ chức cuộc phản công vào kinh thành Huế ngày 05 – 7 - 1885 là:
+32,"Thời gian, địa điểm thành lập Đảng Cộng sản Việt Nam là:"
+33,"Một trong những chiến thắng vang dội của quân miền Nam trong chiến đấu chống chiến lược ""Chiến tranh đặc biệt"" của Mỹ (1961 - 1965) là"
+33,Đại hội đại biểu toàn quốc lần thứ III của Đảng Lao động Việt Nam (9 -1960) xác định cách mạng xã hội chủ nghĩa ở miền Bắc có vai trò
+34,Từ ngữ được điền vào chỗ dấu ba chấm của câu “… là phần thông báo tuy không được diễn đạt trực tiếp bằng từ ngữ trong câu nhưng có thể suy ra từ những từ ngữ ấy.” là
+34,"Xét về cấu tạo ngữ pháp, câu:“Sau một hồi trống thúc vang dội cả lòng tôi, mấy người học trò cũ đến sắp hàng dưới hiên rồi đi vào lớp.” (Thanh Tịnh) thuộc kiểu câu"
+35,"Trong cuộc chiến đấu chống chiến lược Chiến tranh đặc biệt (1961-1965), quân dân miền Nam Việt Nam đã"
+35,"Trong cuộc khai thác thuộc địa lần thứ hai của thực dân Pháp ở Đông Dương (1919-1929), xã hội Việt Nam có chuyển biến nào sau đây?"
+36,"Qua tác phẩm Chiếc thuyền ngoài xa, Nguyễn Minh Châu muốn gửi gắm bài học gì?"
+36,Chọn từ viết đúng chính tả trong các từ sau:
+37,Ai có quyền biểu quyết trong Phiên họp Chính phủ
+37,Các tổ chức xã hội
+38,"Đại hội đại biểu toàn quốc Đảng Cộng sản Việt Nam lần thứ VI đưa ra đường lối đổi mới về kinh tế, được tổ chức năm:"
+38,Bộ luật kinh doanh được Quốc hội nước CHXHCN Việt Nam thông qua năm:
+39,Hãy chỉ ra các nhận định sai?
+39,Nhận định nào sau đây là đúng?
+40,"Căn cứ vào tính chất và mức độ nguy hiểm cho xã hội của hành vi, tội phạm nghiêm trọng là"
+40,"Căn cứ vào tính chất và mức độ nguy hiểm cho xã hội của hành vi, tội phạm ít nghiêm trọng là"
+41,Thành viên ban kiểm soát trong công ty cổ phần có độ tuổi
+41,Trường hợp nào hợp đồng dân sự được vô hiệu
+42,"Theo Điều 26 Luật Giáo dục, học sinh vào lớp 6 phải?"
+42,"Theo Điều 26 Luật Giáo dục, giáo dục THCS phải thực hiện trong mấy năm học?"
+43,Thời kỳ nào trong lịch sử Ai Cập được mệnh danh là “Thời đại của Kim tự tháp”?
+43,"Vua Akhenaton (1424-1388 tr.CN) tiến hành một cuộc cải cách tôn giáo, đề xướng tôn giáo thờ thần A-tôn vì…"
+44,Tiền đề lý luận của sự ra đời chủ nghĩa Mác? Chọn câu trả lời đúng
+44,Nội dung hoạt động nghiên cứu khoa học của Các Mác và Ph.Ăngghen ở giai đoạn 1844 - 1848:
+45,"Anh Minh có hành vi đi xe máy vượt đèn đỏ và không đội mũ bảo hiểm, hành vi vi phạm hành chính của anh Minh bị xử lý?"
+45,"Căn cứ vào thẩm quyền quản lý, cơ quan hành chính nhà nước được chia như thế nào?"
+46,Chủ nghĩa yêu nước” của người Việt Nam là sản phẩm của văn hóa:
+46,Chiếc xích lô của người Việt Nam là sản phẩm của:
+47,Nội hàm và ngoại diên của cùng một khái niệm giống với mối quan hệ nào sau đây nhất:
+47,"Nội hàm và ngoại diên của khái niệm ràng buộc với nhau, cụ thể là:"
+48,Nhiệm vụ chủ yếu của cách mạng Việt Nam trong thời kỳ 1930-1954:
+48,Tính chất của xã hội Việt Nam dưới sự thống trị của thực dân Pháp:
+49,"Ngại ngùng không mạnh dạn bộc lộ hết tâm tư, tình cảm:"
+49,Truyền thống văn hóa lâu đời tốt đẹp:
+50,Khoản mục “ Tiền người mua trả trước “ thuộc về:
+50,Khi xác định tổng giá trị tài sản trên bảng cân đối kế toán thì khoản mục “Hao mòn tài sản cố định”:
+51,Các THÔNG SỐ dược động học KHÔNG bao gồm:
+51,Khái niệm về DƯỢC ĐỘNG HỌC:
+52,Vận tốc lắng của hạt trong bể lắng bùn được xác định
+52,"Trong bể lắng đứng, nước thải được đưa vào bể từ"
+53,Báng tự do gặp trong trường hợp: 9.1. Lao màng bụng. 9.2. Ung thư màng bụng. 9.3. Xơ gan. 9.4. Hội chứng thận hư.
+53,"Một bệnh nhân có dịch ổ bụng với tính chất dịch thấm, ta có thể:"
+54,Yêu cầu về nội dung giáo dục mầm non là.
+54,Phương án nào sau là yêu cầu về nội dung giáo dục của chương trình giáo dục mầm non?
+55,"Xuất quỹ tiền mặt để mua NVL sử dụng ngay trong sản xuất (thuộc diện chịu thuế theo phương pháp khấu trừ), Kế toán ghi:"
+55,"Kế toán tập hợp chi phí SCL TSCĐ theo phương thức thuê ngoài sửa chữa, Kế toán ghi:"
+56,"Thực hiện cấp phát, quyết toán hoá đơn ấn chỉ thuế thuộc quản lý của Cục Thuế; theo dõi giám sát việc cấp bán các loại ấn chỉ theo quy định là nhiệm vụ của:"
+56,Theo Nghị định 30/2020/NĐ-CP của Chính phủ ngày 5/3/2020 về công tác văn thư. Xác định phương án sai về công tác văn thư?
+57,"Theo Hiến pháp năm 2013, quyền công dân được tổ chức nào công nhận, tôn trọng, bảo vệ và bảo đảm?"
+57,"Luật cán bộ, công chức đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 4 có hiệu lực từ ngày, tháng, năm nào?"
+58,"Đường mà trên đó phương tiện tham gia giao thông được các phương tiện giao thông được các phương tiện giao thông đến từ hướng khác nhường đường khi qua nơi đường giao nhau, được cắm biển báo hiệu đường ưu tiên là loại đường gì?"
+58,Người lái xe được hiểu như thế nào trong các khái niệm dưới đây
