@@ -1,0 +1,4330 @@
+[
+  {
+    "con": "Cho hàm số y=f(x)=2\\left(m-1\\right)x+\\frac{m\\left(x-2\\right)}{\\left|x-2\\right|}. Tìm m để đồ thị của hàm số cắt trục hoành cắt tại điểm có hoành độ thuộc khoảng \\left(1;{3}\\right)",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một tam giác có ba cạnh a, b, c. Nếu a + b > c và a + c > b và b + c > a",
+    "re": "Tam giác tồn tại"
+  },
+  {
+    "con": "Cho hai số nguyên a và b. Nếu a chia hết cho b",
+    "re": "a là bội của b"
+  },
+  {
+    "con": "Một số nguyên dương n. Nếu n là số chẵn",
+    "re": "n có thể được viết dưới dạng 2k với k là số nguyên"
+  },
+  {
+    "con": "Cho một hình chữ nhật có chiều dài l và chiều rộng w. Nếu l > 0 và w > 0",
+    "re": "Diện tích của hình chữ nhật là l * w"
+  },
+  {
+    "con": "Cho một số thực x. Nếu x > 0",
+    "re": "Căn bậc hai của x là một số thực dương"
+  },
+  {
+    "con": "Một đa giác có n cạnh. Nếu n >= 3",
+    "re": "Đa giác tồn tại"
+  },
+  {
+    "con": "Cho một số nguyên dương n. Nếu n là số nguyên tố",
+    "re": "n chỉ có hai ước số là 1 và n"
+  },
+  {
+    "con": "Cho một dãy số số học với số hạng đầu tiên a và công sai d. Nếu d > 0",
+    "re": "Dãy số này là tăng"
+  },
+  {
+    "con": "Cho một hình tròn có bán kính r. Nếu r > 0",
+    "re": "Chu vi của hình tròn là 2πr"
+  },
+  {
+    "con": "Cho hàm số y=f\\left(x\\right) có đồ thị trên đoạn \\left[-2;{6}\\right] như hình vẽ bên dưới. Gọi S là tập hợp các giá trị nguyên của x để hàm số đã cho đạt giá trị lớn nhất trên đoạn \\left[-2;{6}\\right]. Số tập con của S là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì tam giác đó là tam giác cân",
+    "re": "có ít nhất một góc bằng 45 độ"
+  },
+  {
+    "con": "Nếu tổng của hai số nguyên dương là một số chẵn thì cả hai số đó đều là số chẵn hoặc cả hai đều là số lẻ",
+    "re": "tổng của chúng cũng là số chẵn"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3 thì n cũng chia hết cho 6",
+    "re": "n là bội số của 6"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì diện tích của hình chữ nhật đó là",
+    "re": "gấp đôi diện tích của hình vuông có cạnh bằng chiều rộng"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0 thì x bình phương cũng lớn hơn 0",
+    "re": "x là số dương"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ thì góc còn lại là",
+    "re": "góc vuông"
+  },
+  {
+    "con": "Nếu một số nguyên n là số lẻ thì n bình phương cũng là",
+    "re": "số lẻ"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh thì nó được gọi là",
+    "re": "hình lục giác"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có 3 chữ số thì n nằm trong khoảng từ 100 đến 999",
+    "re": "n là số có 3 chữ số"
+  },
+  {
+    "con": "Cho tam giác ABC và I thỏa \\overrightarrow{IA}=3\\overrightarrow{IB}. Đẳng thức nào sau đây là đẳng thức đúng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một số nguyên dương chia hết cho 2 thì số đó là số chẵn",
+    "re": "Số đó có thể được viết dưới dạng 2n với n là số nguyên"
+  },
+  {
+    "con": "Một đa giác có tổng số đo các góc trong bằng 360 độ thì đa giác đó có 4 cạnh",
+    "re": "Đó là hình tứ giác"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tại một điểm thì chúng tạo thành 4 góc",
+    "re": "Tổng của 4 góc đó bằng 360 độ"
+  },
+  {
+    "con": "Nếu một số có chữ số tận cùng là 0 hoặc 5 thì số đó chia hết cho 5",
+    "re": "Số đó có thể được viết dưới dạng 5n với n là số nguyên"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì tỉ lệ giữa chiều dài và chiều rộng là 2:1",
+    "re": "Diện tích của hình chữ nhật là 2w^2 với w là chiều rộng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có 3 chữ số thì n nằm trong khoảng từ 100 đến 999",
+    "re": "Số đó có thể được viết dưới dạng 100a + 10b + c với a, b, c là các chữ số"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r thì diện tích của hình tròn đó là πr^2",
+    "re": "Diện tích là một số dương"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 3 thì tổng các chữ số của n cũng chia hết cho 3",
+    "re": "Điều này đúng với mọi số nguyên dương n"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì tam giác đó là tam giác cân",
+    "re": "Góc đối diện với hai cạnh bằng nhau cũng bằng nhau"
+  },
+  {
+    "con": "Cho \\triangle ABC có A\\left(4;{9}\\right), B\\left(3;{7}\\right), C\\left(x-1;{y}\\right). Để G\\left(x;{y}+6\\right) là trọng tâm \\triangle ABC thì giá trị x và y là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3 thì n cũng chia hết cho 6",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số nguyên dương a và b là số chẵn thì cả a và b đều là số chẵn hoặc cả hai đều là số lẻ",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì diện tích của nó là gấp đôi diện tích của hình vuông có cạnh bằng chiều rộng",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh thì tổng các góc trong của nó là (n-2) \\times 180 độ",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0 thì x^2 cũng lớn hơn 0",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tại một điểm thì chúng tạo thành hai cặp góc đối đỉnh bằng nhau",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có 3 chữ số thì n nằm trong khoảng từ 100 đến 999",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r thì chu vi của nó được tính bằng công thức 2\\pi r",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n là số nguyên tố thì n chỉ có hai ước số là 1 và chính nó",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Cho hai góc \\alpha và \\beta với \\alpha+\\beta=180^{\\circ}, tìm giá trị của biểu thức: \\cos{\\alpha}\\cos{\\beta}-\\sin{\\beta}\\sin{\\alpha}",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau, thì tam giác đó là tam giác cân.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và hiệu của chúng là 2, thì hai số đó là 6 và 4.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 và 3, thì số đó cũng chia hết cho 6.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng, thì diện tích của nó là 2 lần bình phương chiều rộng.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số có chữ số hàng đơn vị là 5, thì số đó là số lẻ.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh, thì nó được gọi là hình lục giác.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương có 3 chữ số, thì số đó nằm trong khoảng từ 100 đến 999.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một biểu thức đại số có dạng ax^2 + bx + c = 0, thì nghiệm của nó có thể được tìm bằng công thức nghiệm.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tại một điểm, thì chúng tạo thành hai cặp góc đối đỉnh.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tập xác định của hàm số y=\\sqrt{x^2-3x+2}+\\frac{1}{\\sqrt{x+3}} là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương a và b là",
+    "re": "số nguyên dương"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh a, b, c thỏa mãn a + b > c, a + c > b, b + c > a",
+    "re": "thì đó là một tam giác"
+  },
+  {
+    "con": "Nếu x là một số nguyên, thì x^2 là",
+    "re": "số nguyên không âm"
+  },
+  {
+    "con": "Nếu một số chia hết cho 2 và 3",
+    "re": "thì nó cũng chia hết cho 6"
+  },
+  {
+    "con": "Nếu một đa thức có bậc n, thì số nghiệm của nó không vượt quá",
+    "re": "n"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng là 90 độ",
+    "re": "thì góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0",
+    "re": "thì x^2 cũng lớn hơn 0"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài l và chiều rộng w",
+    "re": "thì diện tích của nó là l * w"
+  },
+  {
+    "con": "Nếu một số là số nguyên tố",
+    "re": "thì nó chỉ có hai ước số là 1 và chính nó"
+  },
+  {
+    "con": "Trong mặt phẳng tọa độ, cho \\overrightarrow{a}=\\left(9;{3}\\right). Vectơ nào sau đây không vuông góc với vectơ \\overrightarrow{a}",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một tam giác có ba cạnh có độ dài lần lượt là 3, 4 và 5",
+    "re": "Tam giác đó là tam giác vuông"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2",
+    "re": "Số đó là số chẵn"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và một trong hai số là 4",
+    "re": "Số còn lại là 6"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh",
+    "re": "Đó là một hình lục giác"
+  },
+  {
+    "con": "Nếu một số có phần thập phân là 0.5",
+    "re": "Số đó là số lẻ"
+  },
+  {
+    "con": "Nếu một biểu thức đại số có dạng ax + b = 0",
+    "re": "Nó có thể được giải để tìm giá trị của x"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r",
+    "re": "Diện tích của nó là \\pi r^2"
+  },
+  {
+    "con": "Nếu một số nguyên âm được cộng với một số nguyên dương lớn hơn nó",
+    "re": "Kết quả sẽ là số nguyên âm"
+  },
+  {
+    "con": "Nếu một tỉ lệ giữa hai đại lượng là 3:4",
+    "re": "Thì tỉ lệ nghịch của nó là 4:3"
+  },
+  {
+    "con": "Cho hàm số: y=x^2-2x+3. Trong các mệnh đề sau, tìm mệnh đề đúng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một tam giác có ba cạnh. Nếu tổng độ dài hai cạnh bất kỳ lớn hơn độ dài cạnh còn lại",
+    "re": "Tam giác đó tồn tại"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2",
+    "re": "Số đó là số chẵn"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ",
+    "re": "Góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một số nguyên dương có chữ số cuối là 0 hoặc 5",
+    "re": "Số đó chia hết cho 5"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh",
+    "re": "Số góc trong của đa giác đó là (n-2) x 180 độ"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 3 và dư 0",
+    "re": "Số đó chia hết cho 3"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng",
+    "re": "Diện tích của hình chữ nhật là chiều dài nhân chiều rộng"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0",
+    "re": "Căn bậc hai của x là số dương"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tại một điểm",
+    "re": "Chúng tạo thành hai cặp góc đối đỉnh"
+  },
+  {
+    "con": "Bạn Hoa vừa thi đậu vào lớp 10 năm học 2021-2022, ba mẹ của bạn thưởng cho bạn một chiếc laptop. Khi mang về bạn phát hiện ngoài bao bì có ghi trọng lượng 1,5456\\mathrm{\"kg\"}±0\\pm001\\mathrm{kg}. Giá trị quy tròn trọng lượng của chiếc laptop đó là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một tam giác có ba cạnh có độ dài lần lượt là 3 cm, 4 cm và 5 cm. Tam giác này là",
+    "re": "tam giác vuông"
+  },
+  {
+    "con": "Nếu tổng của hai số là 20 và một trong hai số là 8, thì số còn lại là",
+    "re": "12"
+  },
+  {
+    "con": "Nếu bạn có 5 quả táo và bạn cho bạn bè 2 quả, thì số táo còn lại là",
+    "re": "3"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài 10 cm và chiều rộng 5 cm, thì diện tích của hình chữ nhật đó là",
+    "re": "50 cm²"
+  },
+  {
+    "con": "Nếu bạn có 3/4 bánh pizza và ăn 1/4, thì số bánh pizza còn lại là",
+    "re": "1/2"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2, thì số đó là",
+    "re": "số chẵn"
+  },
+  {
+    "con": "Nếu bạn có 60 phút và đã sử dụng 25 phút, thì thời gian còn lại là",
+    "re": "35 phút"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính 7 cm, thì chu vi của hình tròn đó là",
+    "re": "44 cm"
+  },
+  {
+    "con": "Nếu bạn có 10 viên bi và bạn mua thêm 5 viên, thì tổng số viên bi bạn có là",
+    "re": "15 viên"
+  },
+  {
+    "con": "Cho các số thực x, y thỏa mãn x^2+y^2=1+xy. Gọi M,m lần lượt là giá trị lớn nhất và giá trị nhỏ nhất của biểu thức S=x^4+y^4-x^2y^2. Khi đó giá trị của 2M+9m bằng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh a, b, c thỏa mãn bất đẳng thức tam giác a + b > c, a + c > b, b + c > a",
+    "re": "thì tam giác đó tồn tại"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có thể được phân tích thành tích của các số nguyên tố",
+    "re": "thì n được gọi là số hợp số"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tại một điểm và tạo thành hai cặp góc đối đỉnh",
+    "re": "thì các góc đối đỉnh bằng nhau"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài l và chiều rộng w",
+    "re": "thì diện tích của hình chữ nhật là A = l * w"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn bất phương trình x^2 - 4x + 3 < 0",
+    "re": "thì x nằm trong khoảng (1, 3)"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có chữ số tận cùng là 0",
+    "re": "thì n chia hết cho 10"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r",
+    "re": "thì chu vi của hình tròn là C = 2πr"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn phương trình x^2 = 9",
+    "re": "thì x có thể nhận giá trị 3 hoặc -3"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh",
+    "re": "thì tổng các góc trong của đa giác đó là (n - 2) * 180 độ"
+  },
+  {
+    "con": "Số nghiệm của phương trình\\sqrt{2x-3}=x-3 là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương luôn lớn hơn",
+    "re": "0"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì",
+    "re": "đó là tam giác cân"
+  },
+  {
+    "con": "Tích của hai số âm luôn",
+    "re": "là một số dương"
+  },
+  {
+    "con": "Nếu một số chia hết cho 2 thì",
+    "re": "nó là số chẵn"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng là 90 độ thì",
+    "re": "góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 3 và dư 1 thì",
+    "re": "nó có thể viết dưới dạng 3k + 1"
+  },
+  {
+    "con": "Nếu một đa giác có 4 cạnh thì",
+    "re": "đó là tứ giác"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau thì",
+    "re": "chúng tạo thành các cặp góc đối đỉnh"
+  },
+  {
+    "con": "Nếu một số là bội số của 5 thì",
+    "re": "nó có thể kết thúc bằng 0 hoặc 5"
+  },
+  {
+    "con": "Cho hình vuông ABCD cạnh a. Tính \\left|\\overrightarrow{AB}+\\overrightarrow{AC}+\\overrightarrow{AD}\\right|",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho hai số a và b. Nếu a > b thì a - b > 0",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho tam giác ABC có độ dài ba cạnh a, b, c. Nếu a + b > c và a + c > b và b + c > a thì ABC là tam giác",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một số nguyên n. Nếu n chia hết cho 2 thì n là số chẵn",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một đa thức P(x) = ax^2 + bx + c. Nếu a ≠ 0 thì P(x) là một đa thức bậc hai",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho hai đường thẳng song song. Nếu một đường thẳng cắt một trong hai đường thẳng đó thì nó cũng cắt đường thẳng còn lại",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một hình tròn có bán kính r. Nếu tính diện tích thì diện tích = πr^2",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một số thực x. Nếu x > 0 thì x^2 > 0",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một hình chữ nhật có chiều dài l và chiều rộng w. Nếu tính chu vi thì chu vi = 2(l + w)",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một số nguyên dương n. Nếu n là số nguyên tố thì n chỉ có hai ước số là 1 và n",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho tam giác ABC vuông tại B có AB=6, BC=8. Khi đó \\left|\\overrightarrow{BC}-\\overrightarrow{BA}\\right| bằng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 thì số đó là số chẵn",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số nguyên dương là 10, thì cả hai số đều nhỏ hơn 10",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài là 5 và chiều rộng là 3, thì diện tích của hình chữ nhật đó là",
+    "re": "15"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0, thì kết quả là",
+    "re": "0"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh lần lượt là 3, 4 và 5, thì tam giác đó là tam giác vuông",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia cho 3 có dư 1, thì số đó có thể được biểu diễn dưới dạng 3k + 1 với k là số nguyên",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính là 4, thì chu vi của hình tròn đó là",
+    "re": "25.12"
+  },
+  {
+    "con": "Nếu một số nguyên dương là bội số của 6, thì số đó cũng là bội số của 2 và 3",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh, thì nó được gọi là hình lục giác",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Cho hàm số y=f\\left(x\\right) có đồ thị như hình vẽ. Có bao nhiêu giá trị nguyên m\\in\\left[-2021;{2}022\\right] để phương trình f^2\\left(\\left|x\\right|\\right)-\\left(m-1\\right)f\\left(\\left|x\\right|\\right)-m=0 có 5 nghiệm phân biệt",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh a, b, c thỏa mãn bất đẳng thức tam giác thì tam giác đó tồn tại",
+    "re": "Tam giác tồn tại"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có 2 ước số nguyên dương khác nhau thì n là số nguyên tố",
+    "re": "Kết quả sai"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tại một điểm thì chúng tạo thành hai cặp góc đối đỉnh",
+    "re": "Hai cặp góc đối đỉnh bằng nhau"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn bất phương trình x^2 - 4x + 3 < 0 thì x nằm trong khoảng (1, 3)",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số nguyên dương a và b là chẵn thì cả a và b đều chẵn hoặc cả a và b đều lẻ",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì diện tích của nó là 2 lần bình phương chiều rộng",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố p thì p là ước số của n",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh thì tổng các góc trong của nó là (n-2) * 180 độ",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn phương trình x^2 + 4x + 4 = 0 thì x = -2",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Trong hệ trục tọa độ \\left(O;{\\overrightarrow{\\ i}};{\\ }\\overrightarrow{j}\\right) tọa độ -2\\overrightarrow{i}+\\overrightarrow{3j} là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương luôn là",
+    "re": "Một số nguyên dương"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh đều bằng nhau thì",
+    "re": "Đó là tam giác đều"
+  },
+  {
+    "con": "Nếu một số chia hết cho 2 thì",
+    "re": "Số đó là số chẵn"
+  },
+  {
+    "con": "Trong một hình chữ nhật, nếu chiều dài gấp đôi chiều rộng thì",
+    "re": "Diện tích hình chữ nhật là gấp đôi diện tích hình vuông có cạnh bằng chiều rộng"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ thì",
+    "re": "Góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0 thì",
+    "re": "Kết quả là 0"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh thì",
+    "re": "Đó là hình lục giác"
+  },
+  {
+    "con": "Nếu một số thập phân có phần nguyên là 0 và phần thập phân lớn hơn 0 thì",
+    "re": "Số đó là số dương nhỏ hơn 1"
+  },
+  {
+    "con": "Nếu một biểu thức đại số có dạng ax + b = 0 thì",
+    "re": "Nghiệm của nó là x = -b/a (với a khác 0)"
+  },
+  {
+    "con": "Cho ba điểm A,B, C phân biệt. Tập hợp những điểm M mà \\overrightarrow{CM}.\\overrightarrow{CB}=\\overrightarrow{CA}.\\overrightarrow{CB} là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một số nguyên dương n có thể chia hết cho 2 thì n là số chẵn",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và một trong hai số là 4 thì số còn lại là",
+    "re": "6"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì tam giác đó là",
+    "re": "tam giác cân"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có 3 chữ số thì n nằm trong khoảng từ 100 đến 999",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng là 90 độ thì góc còn lại là",
+    "re": "90 độ"
+  },
+  {
+    "con": "Nếu một số thập phân có phần nguyên là 0 thì số đó nằm trong khoảng từ",
+    "re": "0 đến 1"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì tỉ lệ giữa chiều dài và chiều rộng là",
+    "re": "2:1"
+  },
+  {
+    "con": "Nếu một số nguyên dương n được chia cho 5 và dư 0 thì n là",
+    "re": "bội số của 5"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh thì đa giác đó được gọi là",
+    "re": "lục giác"
+  },
+  {
+    "con": "m_0 là giá trị để hệ phương trình \\left\\{\\begin{matrix}mx+y=m^2\\\\x+my=1\\\\\\end{matrix}\\right vô nghiệm. Khi đó",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "x là nghiệm của phương trình bậc nhất ax + b = 0 với a ≠ 0. Khi đó",
+    "re": "x = -\\frac{b}{a}"
+  },
+  {
+    "con": "Tổng của hai số nguyên liên tiếp n và n+1. Khi đó",
+    "re": "Tổng bằng 2n + 1"
+  },
+  {
+    "con": "Diện tích hình chữ nhật có chiều dài l và chiều rộng w. Khi đó",
+    "re": "Diện tích bằng l \\times w"
+  },
+  {
+    "con": "Tổng ba góc của một tam giác. Khi đó",
+    "re": "Tổng bằng 180 độ"
+  },
+  {
+    "con": "Một số nguyên dương n có thể chia hết cho 2. Khi đó",
+    "re": "n là số chẵn"
+  },
+  {
+    "con": "Một tam giác có hai cạnh bằng nhau. Khi đó",
+    "re": "Tam giác đó là tam giác cân"
+  },
+  {
+    "con": "Một số nguyên dương n có tổng các chữ số bằng 9. Khi đó",
+    "re": "n là số chia hết cho 9"
+  },
+  {
+    "con": "Hệ số góc của đường thẳng đi qua hai điểm (x_1, y_1) và (x_2, y_2). Khi đó",
+    "re": "Hệ số góc bằng \\frac{y_2 - y_1}{x_2 - x_1}"
+  },
+  {
+    "con": "Một số nguyên dương n có thể viết dưới dạng a^2 + b^2. Khi đó",
+    "re": "n là số có thể biểu diễn dưới dạng tổng của hai số chính phương"
+  },
+  {
+    "con": "Cho tam giác ABC. Xét các điểm M,N thỏa mãn \\overrightarrow{MA}=2\\overrightarrow{AB}; \\overrightarrow{BN}=-5\\overrightarrow{BC}. Đường thẳng MN và AC cắt nhau tại K. Biết \\frac{KA}{KC}=\\frac{a}{b} với a, b nguyên và phân số \\frac{a}{b} tối giản. Khi đó a+b là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3",
+    "re": "thì n cũng chia hết cho 6"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ",
+    "re": "thì góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng",
+    "re": "thì diện tích của hình chữ nhật là 2 lần bình phương chiều rộng"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0",
+    "re": "thì x bình phương cũng lớn hơn 0"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh",
+    "re": "thì tổng các góc trong của đa giác đó là (n-2) x 180 độ"
+  },
+  {
+    "con": "Nếu một số nguyên dương n là số chính phương",
+    "re": "thì có một số nguyên m sao cho n = m^2"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tại một điểm",
+    "re": "thì tạo thành hai cặp góc đối đỉnh bằng nhau"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 5",
+    "re": "thì chữ số tận cùng của n là 0 hoặc 5"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r",
+    "re": "thì diện tích của hình tròn đó là πr^2"
+  },
+  {
+    "con": "Cho tam giác ABC có trọng tâm G. Gọi I là trung điểm của đoạn thẳng AB. Khẳng định nào sau đây sai",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 thì",
+    "re": "số đó là số chẵn"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ thì",
+    "re": "góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh thì số góc trong của nó là",
+    "re": "n - 2"
+  },
+  {
+    "con": "Nếu một số nguyên dương có chữ số tận cùng là 0 thì",
+    "re": "số đó chia hết cho 10"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau thì",
+    "re": "chúng tạo thành hai cặp góc đối đỉnh"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì",
+    "re": "diện tích của nó là 2 lần bình phương chiều rộng"
+  },
+  {
+    "con": "Nếu một số thực dương được nhân với 0 thì",
+    "re": "kết quả là 0"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 3 và dư 1 thì",
+    "re": "số đó có thể viết dưới dạng 3k + 1 với k là số nguyên"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r thì",
+    "re": "chu vi của nó là 2πr"
+  },
+  {
+    "con": "Cho hàm số y=\\sqrt{\\left(m+1\\right)x+2m+3}, m là tham số. Có bao nhiêu giá trị nguyên m để hàm số đã cho xác định trên đoạn \\left[-3;{-}1\\right]",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì tam giác đó là tam giác cân",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và hiệu của chúng là 2 thì hai số đó là 6 và 4",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 thì số đó là số chẵn",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì diện tích của nó là chiều rộng nhân với 2 lần chiều rộng",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh thì nó được gọi là hình lục giác",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 3 và dư 1 thì số đó có thể viết dưới dạng 3k + 1 với k là số nguyên",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một đường thẳng vuông góc với một đường thẳng khác thì góc giữa chúng là 90 độ",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một số có chữ số hàng đơn vị là 5 thì số đó là số lẻ",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r thì chu vi của nó được tính bằng công thức 2\\pi r",
+    "re": "Đúng"
+  },
+  {
+    "con": "Biết đồ thị hàm số y=ax+b đi qua các điểm A\\left(-2;{1}\\right),B\\left(1;{-}2\\right). Tính T=a+b",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Biết rằng tổng của hai số nguyên dương a và b là 15. Nếu a = 7 thì b = 8",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh lần lượt là 3, 4 và 5 thì tam giác đó là tam giác vuông",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3 thì n cũng chia hết cho 6",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm thì diện tích của hình chữ nhật là 50 cm²",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn bất phương trình x > 3 thì x có thể là 4",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của ba số a, b và c là 30 và a = 10, b = 15 thì c = 5",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n là bội số của 5 thì n có thể là 10",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r = 7 cm thì chu vi của hình tròn là 14π cm",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn phương trình x² = 16 thì x có thể là 4 hoặc -4",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho tập hợp các số nguyên dương. Chọn số lớn nhất",
+    "re": "Số lớn nhất là số lớn nhất trong tập hợp"
+  },
+  {
+    "con": "Có hai số a và b. Nếu a > b",
+    "re": "a - b là số dương"
+  },
+  {
+    "con": "Cho một tam giác có ba cạnh a, b, c. Nếu a + b > c và a + c > b và b + c > a",
+    "re": "Đó là một tam giác hợp lệ"
+  },
+  {
+    "con": "Có một số nguyên n. Nếu n chia hết cho 2",
+    "re": "n là số chẵn"
+  },
+  {
+    "con": "Có một số nguyên n. Nếu n chia hết cho 3",
+    "re": "Tổng các chữ số của n chia hết cho 3"
+  },
+  {
+    "con": "Cho một hình chữ nhật có chiều dài l và chiều rộng w. Nếu l > 0 và w > 0",
+    "re": "Diện tích của hình chữ nhật là l * w"
+  },
+  {
+    "con": "Có một số thực x. Nếu x > 0",
+    "re": "Căn bậc hai của x là số dương"
+  },
+  {
+    "con": "Có một đa giác có n cạnh. Nếu n = 3",
+    "re": "Đó là một tam giác"
+  },
+  {
+    "con": "Có một số nguyên dương n. Nếu n > 1",
+    "re": "n có ít nhất một ước số khác 1 và n"
+  },
+  {
+    "con": "Cho một dãy số số học với số hạng đầu tiên a và công sai d. Nếu n là số hạng thứ n",
+    "re": "n = a + (n-1) * d"
+  },
+  {
+    "con": "Cho (P):{y}=ax^2+bx+c qua ba điểm . Tính T=30a+8b+3c",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương luôn lớn hơn 0",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau, thì nó là tam giác cân",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên chia hết cho 2, thì nó là số chẵn",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ, thì góc còn lại là góc vuông",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0, thì kết quả là 0",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 4 cạnh bằng nhau, thì nó là hình vuông",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số có chữ số tận cùng là 5 hoặc 0, thì nó chia hết cho 5",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một đường thẳng cắt hai đường thẳng song song, thì các góc đồng vị bằng nhau",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và một số là 4, thì số còn lại là 6",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Hãy giả sử  là tập xác định của hàm số y=\\frac{x+4}{\\sqrt{-x^2+4}}. Tính S=2a^2+b^2",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một tam giác có ba cạnh có độ dài 3, 4 và 5",
+    "re": "Tam giác đó là tam giác vuông"
+  },
+  {
+    "con": "Một số nguyên dương chia hết cho 2",
+    "re": "Số đó là số chẵn"
+  },
+  {
+    "con": "Một hình chữ nhật có chiều dài gấp đôi chiều rộng",
+    "re": "Diện tích của hình chữ nhật là 2 lần bình phương chiều rộng"
+  },
+  {
+    "con": "Một số có tổng các chữ số bằng 9",
+    "re": "Số đó chia hết cho 9"
+  },
+  {
+    "con": "Một đa giác có 6 cạnh",
+    "re": "Đó là một hình lục giác"
+  },
+  {
+    "con": "Một hàm số bậc nhất có dạng y = mx + b với m khác 0",
+    "re": "Đồ thị của hàm số là một đường thẳng nghiêng"
+  },
+  {
+    "con": "Một số nguyên dương có 3 chữ số",
+    "re": "Số đó nằm trong khoảng từ 100 đến 999"
+  },
+  {
+    "con": "Một số có phần nguyên là 5 và phần thập phân là 0.75",
+    "re": "Số đó là 5.75"
+  },
+  {
+    "con": "Một hình tròn có bán kính r",
+    "re": "Diện tích của hình tròn là \\pi r^2"
+  },
+  {
+    "con": "Cho số gần đúng a = 1036528 với độ chính xác d = 200. Hãy viết số quy tròn của số a",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho hai số nguyên dương a và b. Nếu a > b thì a - b là số dương",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh đều bằng nhau thì đó là tam giác đều",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một số nguyên n. Nếu n chia hết cho 2 thì n là số chẵn",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và một trong hai số là 4 thì số còn lại là 6",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì tỷ lệ giữa chiều dài và chiều rộng là 2:1",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số là 1 và chính nó thì n là số nguyên tố",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đường thẳng cắt hai đường thẳng song song thì các góc trong cùng phía sẽ bằng nhau",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số có chữ số tận cùng là 0 thì số đó chia hết cho 10",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r thì diện tích của hình tròn đó là πr²",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho tam giác ABC nội tiếp trong đường tròn tâm O. Gọi H là trực tâm của tam giác. Trong các khẳng định sau, khẳng định nào đúng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 và 3",
+    "re": "thì nó cũng chia hết cho 6"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ",
+    "re": "thì góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh",
+    "re": "thì tổng các góc trong của nó là (n-2) x 180 độ"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0",
+    "re": "thì x bình phương cũng lớn hơn 0"
+  },
+  {
+    "con": "Nếu hai đoạn thẳng có độ dài bằng nhau",
+    "re": "thì chúng là đồng dạng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố",
+    "re": "thì n có thể phân tích thành tích của các số nguyên tố"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng",
+    "re": "thì diện tích của nó là chiều dài nhân chiều rộng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia cho 5 có dư 0",
+    "re": "thì n là bội số của 5"
+  },
+  {
+    "con": "Nếu một tam giác đều có cạnh a",
+    "re": "thì diện tích của nó là (a^2 * √3) / 4"
+  },
+  {
+    "con": "Tổng \\overrightarrow{MN}+\\overrightarrow{PQ}+\\overrightarrow{RN}+\\overrightarrow{NP}+\\overrightarrow{QR} bằng vectơ nào sau đây",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng các góc trong một tam giác bằng 180 độ",
+    "re": "Tam giác đó là hình học Euclid"
+  },
+  {
+    "con": "Tích của hai số âm là một số dương",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Tổng của hai số chẵn là một số chẵn",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Tổng của hai số lẻ là một số chẵn",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số chia hết cho 2 và 3 thì nó cũng chia hết cho 6",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng bằng nhau thì nó là hình vuông",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n lớn hơn 1 thì n có ít nhất một ước số khác 1 và chính nó",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau thì góc đối đỉnh của chúng bằng nhau",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh thì tổng các góc trong của nó bằng (n-2) x 180 độ",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Cho hình thoi ABCD. Đẳng thức nào sau đây sai",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một tam giác có tổng ba góc bằng 180 độ",
+    "re": "Tam giác đó là hợp lệ"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tại một điểm",
+    "re": "Thì chúng tạo thành hai cặp góc đối đỉnh bằng nhau"
+  },
+  {
+    "con": "Một số nguyên dương chia hết cho 2",
+    "re": "Thì số đó là số chẵn"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh",
+    "re": "Thì tổng các góc trong của nó là (n-2) x 180 độ"
+  },
+  {
+    "con": "Nếu một số có chữ số tận cùng là 0 hoặc 5",
+    "re": "Thì số đó chia hết cho 5"
+  },
+  {
+    "con": "Nếu hai tam giác có ba cạnh tương ứng bằng nhau",
+    "re": "Thì hai tam giác đó là bằng nhau (định lý cạnh-cạnh-cạnh)"
+  },
+  {
+    "con": "Nếu một số nguyên dương a chia hết cho b",
+    "re": "Thì tồn tại một số nguyên k sao cho a = b * k"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng bằng nhau",
+    "re": "Thì hình đó là hình vuông"
+  },
+  {
+    "con": "Nếu một số có tổng các chữ số bằng 3",
+    "re": "Thì số đó chia hết cho 3"
+  },
+  {
+    "con": "Cho hàm số y=f\\left(x\\right) xác định trên tập số nguyên và nhận giá trị trong tập số nguyên thỏa mãn f\\left(1\\right)=1,f\\left(m+n\\right)=f\\left(m\\right)+f\\left(n\\right)+mn với mọi số nguyên dương m,n. Tính f\\left(2020\\right)",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì tam giác đó là tam giác cân",
+    "re": "Có ít nhất một trục đối xứng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và hiệu của chúng là 2 thì hai số đó là 6 và 4",
+    "re": "Cả hai số đều là số nguyên"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có thể chia hết cho 2 và 3 thì n cũng chia hết cho 6",
+    "re": "N là bội số của 6"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì tỉ lệ diện tích của hình chữ nhật đó với chiều rộng là 2:1",
+    "re": "Diện tích bằng 2 lần bình phương chiều rộng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có chữ số tận cùng là 0 thì n là bội số của 10",
+    "re": "N chia hết cho 10"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh thì nó được gọi là hình lục giác",
+    "re": "Có tổng số góc bằng 720 độ"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tạo thành một cặp góc đối đỉnh thì hai góc đó bằng nhau",
+    "re": "Cả hai góc đều có giá trị bằng nhau"
+  },
+  {
+    "con": "Nếu một số nguyên dương n là số chính phương thì có tồn tại một số nguyên dương m sao cho n=m^2",
+    "re": "N có thể biểu diễn dưới dạng bình phương của một số nguyên"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r thì diện tích của nó được tính bằng công thức A=\\pi r^2",
+    "re": "Diện tích là một số dương"
+  },
+  {
+    "con": "Gọi I là trung điểm của đoạn AB. Chọn mệnh đề sai.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương luôn lớn hơn 0.",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh bằng nhau, thì đó là tam giác đều.",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số chia hết cho 2, thì số đó là số chẵn.",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu hai góc đối đỉnh thì chúng bằng nhau.",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng bằng nhau, thì đó là hình vuông.",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 1, thì thương của phép chia đó là chính nó.",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là số lẻ, thì một trong hai số đó phải là số chẵn.",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 4 cạnh, thì đó là tứ giác.",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số là bội của 3, thì số đó có thể được chia hết cho 3.",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Parabol y=-x^2+2x+2 có đỉnh là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương luôn lớn hơn hoặc bằng",
+    "re": "0"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì",
+    "re": "đó là tam giác cân"
+  },
+  {
+    "con": "Tích của hai số âm luôn",
+    "re": "là một số dương"
+  },
+  {
+    "con": "Nếu một số chia hết cho 2 thì",
+    "re": "số đó là số chẵn"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng là 90 độ thì",
+    "re": "góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 1 thì",
+    "re": "kết quả là chính nó"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì",
+    "re": "diện tích của nó là 2 lần diện tích hình vuông có cạnh bằng chiều rộng"
+  },
+  {
+    "con": "Nếu một số là bội của 3 thì",
+    "re": "tổng các chữ số của nó cũng là bội của 3"
+  },
+  {
+    "con": "Nếu một đường thẳng cắt hai đường thẳng song song thì",
+    "re": "các góc so le trong bằng nhau"
+  },
+  {
+    "con": "Cho hai hàm số bậc nhất f\\left(x\\right)=3x+1 và y=g\\left(x\\right) được xác định bởi g\\left[f\\left(x\\right)\\right]=9x-2. Biết đồ thị của hàm số y=g\\left(x\\right)cắt trục hoành và trục tung lần lượt tại A và B. Diện tích tam giác \\Delta OAB ( với O là gốc tọa độ) bằng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương a và b lớn hơn 0",
+    "re": "Cả a và b đều lớn hơn 0"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh a, b, c thỏa mãn a + b > c, a + c > b và b + c > a",
+    "re": "Tam giác đó tồn tại"
+  },
+  {
+    "con": "Nếu một số nguyên n chia hết cho 2",
+    "re": "n là số chẵn"
+  },
+  {
+    "con": "Nếu một số nguyên n chia hết cho 3",
+    "re": "Tổng các chữ số của n cũng chia hết cho 3"
+  },
+  {
+    "con": "Nếu một đa thức bậc hai có dạng ax^2 + bx + c với a ≠ 0",
+    "re": "Đồ thị của đa thức đó là một parabol"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ",
+    "re": "Góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0",
+    "re": "Căn bậc hai của x là một số dương"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài l và chiều rộng w",
+    "re": "Diện tích của hình chữ nhật là l * w"
+  },
+  {
+    "con": "Nếu một số nguyên n là số nguyên tố",
+    "re": "n chỉ có hai ước số là 1 và n"
+  },
+  {
+    "con": "Cho tập hợp A=\\left(-2;{3}\\right), B=\\left(1;{+}\\infty\\right) . Khẳng định nào sau đây đúng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một tam giác có ba cạnh có độ dài 3, 4 và 5",
+    "re": "Tam giác đó là tam giác vuông"
+  },
+  {
+    "con": "Một số nguyên dương chia hết cho 2",
+    "re": "Số đó là số chẵn"
+  },
+  {
+    "con": "Một hình chữ nhật có chiều dài gấp đôi chiều rộng",
+    "re": "Diện tích của hình chữ nhật là chiều rộng nhân với chiều dài"
+  },
+  {
+    "con": "Một số có tổng các chữ số bằng 9",
+    "re": "Số đó chia hết cho 9"
+  },
+  {
+    "con": "Một đa giác có 6 cạnh",
+    "re": "Đó là một hình lục giác"
+  },
+  {
+    "con": "Một biểu thức đại số có dạng ax + b = 0",
+    "re": "Phương trình đó có thể giải được để tìm x"
+  },
+  {
+    "con": "Một số thực x thỏa mãn x^2 = 16",
+    "re": "x có thể là 4 hoặc -4"
+  },
+  {
+    "con": "Một hình tròn có bán kính r",
+    "re": "Chu vi của hình tròn là 2πr"
+  },
+  {
+    "con": "Một số nguyên âm",
+    "re": "Số đó nhỏ hơn 0"
+  },
+  {
+    "con": "Đồ thị hình vẽ sau là đồ thị của một hàm số trong bốn hàm số được liệt kê ở bốn phương án A, B, C, D dưới đây. Hỏi hàm số đó là hàm số nào",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương là một số nguyên dương",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh bằng nhau thì tam giác đó là tam giác đều",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên chia hết cho 2 thì số đó là số chẵn",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng là 90 độ thì góc còn lại là góc vuông",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số có chữ số tận cùng là 0 hoặc 5 thì số đó chia hết cho 5",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tạo thành hai góc đối đỉnh thì hai góc đó bằng nhau",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng bằng nhau thì hình đó là hình vuông",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0 thì kết quả là 0",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số có tổng các chữ số chia hết cho 3 thì số đó chia hết cho 3",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Cho hai điểm phân biệt A và B, số vectơ khác vectơ - không có thể xác định được từ 2 điểm trên là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 thì",
+    "re": "số đó là số chẵn"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và một trong hai số là 4 thì",
+    "re": "số còn lại là 6"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì",
+    "re": "tam giác đó là tam giác cân"
+  },
+  {
+    "con": "Nếu một số có chữ số hàng đơn vị là 0 thì",
+    "re": "số đó là bội số của 10"
+  },
+  {
+    "con": "Nếu một đa giác có 4 cạnh thì",
+    "re": "đa giác đó là tứ giác"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng là 90 độ thì",
+    "re": "góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 3 và dư 1 thì",
+    "re": "số đó có thể viết dưới dạng 3k + 1 với k là số nguyên"
+  },
+  {
+    "con": "Nếu diện tích của một hình chữ nhật là 20 và chiều dài là 5 thì",
+    "re": "chiều rộng là 4"
+  },
+  {
+    "con": "Nếu một số là bội số của 5 thì",
+    "re": "số đó có thể kết thúc bằng 0 hoặc 5"
+  },
+  {
+    "con": "Tập xác định của hàm số y=\\sqrt{2x-4} là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương luôn lớn hơn hoặc bằng 2",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì đó là tam giác cân",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số chia hết cho 2 thì số đó là số chẵn",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu hai góc trong cùng một tam giác có tổng bằng 90 độ thì chúng là góc phụ nhau",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0 thì kết quả là 0",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 4 cạnh thì đó là hình tứ giác",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hàm số bậc nhất có hệ số góc dương thì đồ thị của nó là đường thẳng đi lên",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau thì chúng tạo thành hai cặp góc đối đỉnh",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên âm được cộng với một số nguyên dương lớn hơn nó thì kết quả là số nguyên dương",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho tam giác ABC, có bao nhiêu điểm M thoả mãn: \\left|\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}\\right|=1",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một số nguyên dương n có thể chia hết cho 2 nếu n là số chẵn",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và một trong hai số là 4, thì số còn lại là 6",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài 5 và chiều rộng 3, thì diện tích của nó là 15",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n được chia cho 3 và dư 1, thì n có thể viết dưới dạng 3k + 1 với k là số nguyên",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh lần lượt là 3, 4 và 5, thì tam giác đó là tam giác vuông",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số thập phân có phần nguyên là 2 và phần thập phân là 0.5, thì số đó là 2.5",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính 4, thì chu vi của nó là 8π",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố là 2, thì n là số chẵn",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh, thì nó được gọi là hình lục giác",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Tính số các tập con có 2 phần tử của M=\\left\\{0;{2};{3}\\right\\}",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Giải phương trình 2x + 3 = 7",
+    "re": "x = 2"
+  },
+  {
+    "con": "Tính diện tích hình chữ nhật có chiều dài 5 và chiều rộng 3",
+    "re": "Diện tích = 15"
+  },
+  {
+    "con": "Tính trung bình cộng của các số 4, 8, 6, 10",
+    "re": "Trung bình cộng = 7"
+  },
+  {
+    "con": "Tính giá trị của biểu thức 3(2 + 4) - 5",
+    "re": "Giá trị = 15"
+  },
+  {
+    "con": "Tìm số nguyên dương x sao cho 3x - 5 = 10",
+    "re": "x = 5"
+  },
+  {
+    "con": "Tính tổng các số nguyên từ 1 đến 100",
+    "re": "Tổng = 5050"
+  },
+  {
+    "con": "Giải bất phương trình x - 4 < 2",
+    "re": "x < 6"
+  },
+  {
+    "con": "Tính chu vi hình tròn có bán kính 7",
+    "re": "Chu vi = 43.96"
+  },
+  {
+    "con": "Tính giá trị của 5^2 + 3^2",
+    "re": "Giá trị = 34"
+  },
+  {
+    "con": "Gọi G là trọng tâm tam giác vuông ABC với cạnh huyền BC=12. Tính độ dài của vectơ \\overrightarrow{v}=\\overrightarrow{GB}+\\overrightarrow{GC}",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số nguyên a và b bằng 10, và a = 4, thì b = 6",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài là 8 cm và chiều rộng là 5 cm, thì diện tích của hình chữ nhật là 40 cm²",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh lần lượt là 3 cm, 4 cm và 5 cm, thì tam giác đó là tam giác vuông",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2, thì n là số chẵn",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh, thì nó được gọi là hình lục giác",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số thập phân có phần nguyên là 3 và phần thập phân là 0.75, thì số đó có thể được viết dưới dạng phân số là \\frac{15}{4}",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r = 5 cm, thì chu vi của hình tròn đó là 10π cm",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một biểu thức đại số có dạng 2x + 3x, thì nó có thể được rút gọn thành 5x",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số là 1 và chính nó, thì n là số nguyên tố",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Cho tam giác ABC. Gọi G là trọng tâm và H là điểm đối xứng với B qua G. Trong các khẳng định sau, khẳng định nào đúng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 và 3",
+    "re": "thì nó cũng chia hết cho 6"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ",
+    "re": "thì góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng",
+    "re": "thì diện tích của nó là chiều rộng nhân với chiều dài"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố p",
+    "re": "thì n có thể được phân tích thành tích của các số nguyên tố, trong đó có p"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh",
+    "re": "thì tổng các góc trong của nó là (n-2) x 180 độ"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tại một điểm",
+    "re": "thì các góc đối đỉnh của chúng bằng nhau"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0",
+    "re": "thì x bình phương cũng lớn hơn 0"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r",
+    "re": "thì diện tích của nó là πr^2"
+  },
+  {
+    "con": "Nếu một số nguyên dương n là số chính phương",
+    "re": "thì có tồn tại một số nguyên m sao cho n = m^2"
+  },
+  {
+    "con": "Trong số học sinh của lớp 10A có 15 bạn được xếp loại học lực giỏi, 20 bạn được xếp loại hạnh kiểm tốt, trong đó có 10 bạn vừa được học sinh giỏi vừa được hạnh kiểm tốt. Khi đó lớp 10A có bao nhiêu bạn được khen thưởng, biết rằng muốn được khen thưởng bạn đó phải có học lực giỏi hay hạnh kiểm tốt",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh có độ dài lần lượt là 3, 4 và 5, thì tam giác đó là tam giác vuông",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 20 và hiệu của chúng là 4, thì hai số đó là 12 và 8",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm, thì diện tích của hình chữ nhật đó là 50 cm²",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 và 3, thì số đó cũng chia hết cho 6",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số có chữ số hàng đơn vị là 0, thì số đó là bội số của 10",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh, thì nó được gọi là hình lục giác",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn x^2 = 16, thì x có thể là 4 hoặc -4",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đường thẳng cắt hai đường thẳng song song, thì các góc đồng vị của nó bằng nhau",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có 3 ước số, thì n là số nguyên tố hoặc là bình phương của một số nguyên tố",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Hàm số nào sau đây là hàm số lẻ",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số chẵn",
+    "re": "Sẽ là một số chẵn"
+  },
+  {
+    "con": "Tích của hai số lẻ",
+    "re": "Sẽ là một số lẻ"
+  },
+  {
+    "con": "Một tam giác có ba cạnh có độ dài khác nhau",
+    "re": "Sẽ là tam giác nhọn hoặc tam giác tù"
+  },
+  {
+    "con": "Một số nguyên dương chia hết cho 2",
+    "re": "Sẽ là số chẵn"
+  },
+  {
+    "con": "Một số nguyên dương chia hết cho 3",
+    "re": "Tổng các chữ số của nó sẽ chia hết cho 3"
+  },
+  {
+    "con": "Hệ số góc của một đường thẳng dốc lên",
+    "re": "Sẽ là một số dương"
+  },
+  {
+    "con": "Diện tích của hình chữ nhật",
+    "re": "Sẽ bằng chiều dài nhân với chiều rộng"
+  },
+  {
+    "con": "Một số có phần thập phân bằng 0",
+    "re": "Sẽ là một số nguyên"
+  },
+  {
+    "con": "Một đa giác có 5 cạnh",
+    "re": "Sẽ được gọi là ngũ giác"
+  },
+  {
+    "con": "Đồ thị hình bên là đồ thị của một hàm số trong bốn hàm số được liệt kê ở bốn phương án A, B, C, D dưới đây. Hỏi hàm số đó là hàm số nào",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương luôn lớn hơn hoặc bằng 2",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh đều bằng nhau thì đó là tam giác đều",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một số nguyên chia hết cho 2 thì số đó là số chẵn",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ thì góc còn lại là góc vuông",
+    "re": "Sai"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0 thì kết quả là 0",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng bằng nhau thì đó là hình vuông",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một số thập phân có phần thập phân là 0 thì số đó là số nguyên",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 5 cạnh thì đó là ngũ giác",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một số nguyên âm được cộng với một số nguyên dương lớn hơn nó thì kết quả có thể là số âm",
+    "re": "Đúng"
+  },
+  {
+    "con": "Cho A=\\left\\{1;{2};{3}\\right\\}. Trong các khẳng định sau, khẳng định nào sai",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một số nguyên dương chia hết cho 2",
+    "re": "Số đó là số chẵn"
+  },
+  {
+    "con": "Một tam giác có tổng ba góc bằng 180 độ",
+    "re": "Tam giác đó là tam giác hợp lệ"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tạo thành một cặp góc đối đỉnh",
+    "re": "Hai góc đó bằng nhau"
+  },
+  {
+    "con": "Nếu một số có chữ số tận cùng là 0 hoặc 5",
+    "re": "Số đó chia hết cho 5"
+  },
+  {
+    "con": "Nếu một đa giác có 4 cạnh",
+    "re": "Đó là hình tứ giác"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 3 và dư 0",
+    "re": "Số đó chia hết cho 3"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r",
+    "re": "Diện tích của hình tròn là \\pi r^2"
+  },
+  {
+    "con": "Nếu một số là số nguyên tố",
+    "re": "Số đó chỉ có hai ước là 1 và chính nó"
+  },
+  {
+    "con": "Nếu một biểu thức đại số có dạng ax + b = 0",
+    "re": "Giá trị của x là -b/a"
+  },
+  {
+    "con": "Cho tam giác đều ABC có tâm O. Gọi I là một điểm tùy ý bên trong tam giác ABC. Hạ ID,IE,IF tương ứng vuông góc với BC,CA,AB. Giả sử \\overrightarrow{ID}+\\overrightarrow{IE}+\\overrightarrow{IF}=\\frac{a}{b}\\overrightarrow{IO} (với \\frac{a}{b} là phân số tối giản). Khi đó a+b bằng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3 thì n cũng chia hết cho 6",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu hai đường thẳng song song cắt bởi một đường thẳng thứ ba thì các góc đồng vị sẽ bằng nhau",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì diện tích của nó bằng chiều rộng nhân với chiều dài",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và một trong hai số là 4 thì số còn lại là 6",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì nó là tam giác cân",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố p thì n có thể được phân tích thành tích của các số nguyên tố",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh thì tổng số góc trong của nó bằng (n-2) x 180 độ",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một số thập phân có phần thập phân là 0.5 thì nó có thể được viết dưới dạng phân số là \\frac{1}{2}",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r thì chu vi của nó bằng 2πr",
+    "re": "Đúng"
+  },
+  {
+    "con": "Cho tam giác ABC và đường thẳng d. Gọi O là điểm thỏa mãn hệ thức \\overrightarrow{OA}+\\overrightarrow{OB}+2\\overrightarrow{OC}=\\overrightarrow{0}. Tìm điểm M trên đường thẳng d sao cho vectơ \\overrightarrow{v}=\\overrightarrow{MA}+\\overrightarrow{MB}+2\\overrightarrow{MC} có độ dài nhỏ nhất",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3",
+    "re": "thì n chia hết cho 6"
+  },
+  {
+    "con": "Nếu hai đường thẳng song song cắt nhau bởi một đường thẳng thứ ba",
+    "re": "thì các góc đồng vị sẽ bằng nhau"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài a và chiều rộng b",
+    "re": "thì diện tích của hình chữ nhật là a * b"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau",
+    "re": "thì tam giác đó là tam giác cân"
+  },
+  {
+    "con": "Nếu tổng của hai số là S và hiệu của chúng là D",
+    "re": "thì hai số đó là (S+D)/2 và (S-D)/2"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố p",
+    "re": "thì n có thể được phân tích thành tích của các số nguyên tố, trong đó có p"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r",
+    "re": "thì chu vi của hình tròn là 2πr"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh",
+    "re": "thì tổng các góc trong của đa giác đó là (n-2) * 180 độ"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0",
+    "re": "thì căn bậc hai của x là một số thực dương"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương",
+    "re": "luôn là một số nguyên dương"
+  },
+  {
+    "con": "Một số chia hết cho 2",
+    "re": "thì số đó là số chẵn"
+  },
+  {
+    "con": "Một tam giác có tổng ba góc bằng 180 độ",
+    "re": "thì đó là một tam giác hợp lệ"
+  },
+  {
+    "con": "Nếu hai đoạn thẳng có độ dài bằng nhau",
+    "re": "thì chúng là đồng dạng"
+  },
+  {
+    "con": "Một số nguyên tố",
+    "re": "chỉ có hai ước số là 1 và chính nó"
+  },
+  {
+    "con": "Nếu một số có chữ số tận cùng là 0 hoặc 5",
+    "re": "thì số đó chia hết cho 5"
+  },
+  {
+    "con": "Một hình chữ nhật có chiều dài và chiều rộng khác nhau",
+    "re": "thì diện tích của nó lớn hơn 0"
+  },
+  {
+    "con": "Nếu một biểu thức đại số có cùng biến số",
+    "re": "thì có thể cộng hoặc trừ các hệ số của chúng"
+  },
+  {
+    "con": "Một số có giá trị tuyệt đối lớn hơn 0",
+    "re": "thì số đó không thể bằng 0"
+  },
+  {
+    "con": "Nếu một số có hai ước số khác nhau",
+    "re": "thì số đó không phải là số nguyên tố"
+  },
+  {
+    "con": "Trong các mệnh đề nào sau đây mệnh đề nào sai",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Trong số các câu sau, câu nào là mệnh đề",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một số nguyên dương chia hết cho 2",
+    "re": "Số đó là số chẵn"
+  },
+  {
+    "con": "Một tam giác có tổng ba góc bằng 180 độ",
+    "re": "Tam giác đó là tam giác hợp lệ"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tạo thành các góc đối đỉnh",
+    "re": "Các góc đó sẽ bằng nhau"
+  },
+  {
+    "con": "Một số có chữ số cuối là 0 hoặc 5",
+    "re": "Số đó chia hết cho 5"
+  },
+  {
+    "con": "Nếu một đa giác có 4 cạnh",
+    "re": "Đó là hình tứ giác"
+  },
+  {
+    "con": "Nếu một số nguyên dương lớn hơn 1 và không có ước số nào ngoài 1 và chính nó",
+    "re": "Số đó là số nguyên tố"
+  },
+  {
+    "con": "Nếu hai cạnh của một tam giác lớn hơn cạnh còn lại",
+    "re": "Tam giác đó có thể tồn tại"
+  },
+  {
+    "con": "Nếu một biểu thức đại số có dạng ax + b = 0",
+    "re": "Có thể giải để tìm giá trị của x"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r",
+    "re": "Diện tích của hình tròn đó là πr²"
+  },
+  {
+    "con": "Tìm giá trị của m sao cho \\overrightarrow{a}=m\\overrightarrow{b}, biết rằng \\overrightarrow{a},\\overrightarrow{b} ngược hướng và \\left|\\overrightarrow{a}\\right|=5,\\left|\\overrightarrow{b}\\right|=15",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tính diện tích của hình chữ nhật có chiều dài 8 cm và chiều rộng 5 cm",
+    "re": "Diện tích là 40 cm²"
+  },
+  {
+    "con": "Giải phương trình 2x + 3 = 11",
+    "re": "Giá trị của x là 4"
+  },
+  {
+    "con": "Tìm giá trị trung bình của các số 4, 8, 6, 10",
+    "re": "Giá trị trung bình là 7"
+  },
+  {
+    "con": "Nếu tổng của hai số là 20 và một số là 12, thì số còn lại là",
+    "re": "8"
+  },
+  {
+    "con": "Tính chu vi của hình tròn có bán kính 7 cm",
+    "re": "Chu vi là khoảng 43.96 cm"
+  },
+  {
+    "con": "Giải bất phương trình x - 5 < 3",
+    "re": "Giá trị của x là x < 8"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh lần lượt là 5 cm và 12 cm, thì cạnh còn lại phải nhỏ hơn",
+    "re": "17 cm và lớn hơn 7 cm"
+  },
+  {
+    "con": "Tìm số nguyên dương nhỏ nhất chia hết cho 3 và 5",
+    "re": "Số đó là 15"
+  },
+  {
+    "con": "Nếu một số được nhân với 4 và kết quả là 32, thì số đó là",
+    "re": "8"
+  },
+  {
+    "con": "Cho tam giác đều ABC có cạnh a. Giá trị \\left|\\overrightarrow{AB}-\\overrightarrow{CA}\\right| bằng bao nhiêu",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho hai số a và b. Nếu a > b thì a - b là số dương",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một hình chữ nhật có chiều dài l và chiều rộng w. Nếu tính diện tích bằng l * w thì diện tích là số dương",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một số nguyên n. Nếu n chia hết cho 2 thì n là số chẵn",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một tam giác có ba cạnh a, b, c. Nếu a + b > c và a + c > b và b + c > a thì tam giác tồn tại",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một số thực x. Nếu x > 0 thì x^2 là số dương",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một đa giác có n cạnh. Nếu n >= 3 thì đa giác có thể tồn tại",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một số nguyên dương n. Nếu n! (giai thừa của n) thì n! > 0",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một đường thẳng và một điểm không nằm trên đường thẳng. Nếu vẽ đường thẳng đi qua điểm đó và song song với đường thẳng thì có một đường thẳng duy nhất",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một hình tròn có bán kính r. Nếu tính chu vi bằng 2πr thì chu vi là số dương",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Số nghiệm của phương trình \\sqrt{2x+7}=x+2 là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương luôn lớn hơn",
+    "re": "0"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì",
+    "re": "đó là tam giác cân"
+  },
+  {
+    "con": "Tích của hai số âm luôn",
+    "re": "là một số dương"
+  },
+  {
+    "con": "Nếu một số chia hết cho 2 thì",
+    "re": "nó là số chẵn"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng là 90 độ thì",
+    "re": "góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 3 và dư 1 thì",
+    "re": "nó có thể viết dưới dạng 3k + 1"
+  },
+  {
+    "con": "Nếu một đa giác có 4 cạnh thì",
+    "re": "đó là tứ giác"
+  },
+  {
+    "con": "Nếu một số là bội của 5 thì",
+    "re": "nó có thể viết dưới dạng 5k"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì",
+    "re": "diện tích của nó là 2 lần bình phương chiều rộng"
+  },
+  {
+    "con": "Cho hình bình hành ABCD. Khi đó \\overrightarrow{AB}+\\overrightarrow{AD}bằng véctơ nào sau đây",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho hai số a và b. Nếu a > b thì a - b là số dương",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Cho tam giác ABC có ba cạnh a, b, c. Nếu a + b > c thì tam giác ABC tồn tại",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Cho một số nguyên n. Nếu n chia hết cho 2 thì n là số chẵn",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Cho một hình chữ nhật có chiều dài l và chiều rộng w. Nếu diện tích A = l × w thì A là diện tích của hình chữ nhật",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Cho một số thực x. Nếu x > 0 thì x^2 là số dương",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Cho một đa giác có n cạnh. Nếu n ≥ 3 thì đa giác đó có thể tồn tại",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Cho một số nguyên dương n. Nếu n! là giai thừa của n thì n! > 0",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Cho một đường thẳng và một điểm không nằm trên đường thẳng đó. Nếu vẽ một đường thẳng đi qua điểm đó thì đường thẳng đó sẽ không cắt đường thẳng ban đầu",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Cho một hình tròn có bán kính r. Nếu diện tích S = πr^2 thì S là diện tích của hình tròn",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Gọi x_1x_2 là hai nghiệm của phương trình \\left|x-2\\right|=\\left|2x-1\\right|. Khẳng định nào sau đây là sai",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 thì",
+    "re": "số đó là số chẵn"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ thì",
+    "re": "góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh thì",
+    "re": "đa giác đó được gọi là lục giác"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn bất phương trình x > 3 thì",
+    "re": "x nằm bên phải của số 3 trên trục số"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì",
+    "re": "diện tích của hình chữ nhật đó là 2 lần bình phương chiều rộng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố là p thì",
+    "re": "n có thể được phân tích thành tích của p và các số nguyên dương khác"
+  },
+  {
+    "con": "Nếu một đường thẳng cắt hai đường thẳng song song thì",
+    "re": "các góc tạo thành ở hai bên đường cắt là bằng nhau"
+  },
+  {
+    "con": "Nếu một số thập phân có phần thập phân là 0 thì",
+    "re": "số đó là số nguyên"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh bằng nhau thì",
+    "re": "tam giác đó là tam giác đều"
+  },
+  {
+    "con": "Tổng \\sin^2 1^\\circ+ \\sin^2 3^\\circ+ \\sin^2 5^\\circ+…+ \\sin^2 85^\\circ+ \\sin^2 87^\\circ bằng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng các góc trong một tam giác bằng 180 độ",
+    "re": "Câu này đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 thì nó là số chẵn",
+    "re": "Câu này đúng"
+  },
+  {
+    "con": "Nếu hai đoạn thẳng có độ dài bằng nhau thì chúng là đồng dạng",
+    "re": "Câu này đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng bằng nhau thì nó là hình vuông",
+    "re": "Câu này đúng"
+  },
+  {
+    "con": "Nếu một số có chữ số tận cùng là 0 hoặc 5 thì nó chia hết cho 5",
+    "re": "Câu này đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương có tổng các chữ số chia hết cho 3 thì số đó chia hết cho 3",
+    "re": "Câu này đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 4 cạnh thì nó là tứ giác",
+    "re": "Câu này đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương có chữ số tận cùng là 2, 4, 6, 8 thì nó là số chẵn",
+    "re": "Câu này đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính gấp đôi thì diện tích của nó gấp bốn lần diện tích của hình tròn ban đầu",
+    "re": "Câu này đúng"
+  },
+  {
+    "con": "Trong hệ tọa độ Oxy, cho các điểm A(1;{3}), B(-2;{3}), C(-2;{1}). Điểm M(a;b) thuộc trục Oy sao cho: \\left|\\overrightarrow{MA}+\\overrightarrow{2MB}+3\\overrightarrow{MC}\\right| nhỏ nhất khi đó a^2+b^2 bằng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3 thì n cũng chia hết cho 6",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu hai góc đối đỉnh thì chúng bằng nhau",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì tam giác đó là tam giác cân",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có chữ số tận cùng là 0 thì n chia hết cho 10",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số chẵn thì tổng đó cũng là một số chẵn",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh thì tổng các góc trong của nó bằng (n-2) x 180 độ",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n là số chính phương thì có ít nhất một số nguyên dương m sao cho m^2 = n",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau thì chúng tạo thành hai cặp góc đối đỉnh",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài a và chiều rộng b thì diện tích của nó bằng a x b",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Trong hệ tọa độ Oxy, cho tam giác ABC thỏa mãn hệ thức a+b=2c. Trong các mệnh đề sau, mệnh đề nào đúng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một số nguyên dương chia hết cho 2",
+    "re": "Số đó là số chẵn"
+  },
+  {
+    "con": "Một tam giác có tổng ba góc bằng 180 độ",
+    "re": "Tam giác đó là tam giác hợp lệ"
+  },
+  {
+    "con": "Một số có chữ số tận cùng là 0 hoặc 5",
+    "re": "Số đó là số chia hết cho 5"
+  },
+  {
+    "con": "Một đa giác có 4 cạnh",
+    "re": "Đó là hình tứ giác"
+  },
+  {
+    "con": "Một số nguyên dương có 2 ước số là 1 và chính nó",
+    "re": "Số đó là số nguyên tố"
+  },
+  {
+    "con": "Trong một hình tròn, đường kính gấp đôi bán kính",
+    "re": "Đường kính bằng 2 lần bán kính"
+  },
+  {
+    "con": "Một số có tổng các chữ số chia hết cho 3",
+    "re": "Số đó chia hết cho 3"
+  },
+  {
+    "con": "Một hình chữ nhật có chiều dài và chiều rộng khác nhau",
+    "re": "Hình đó là hình chữ nhật không vuông"
+  },
+  {
+    "con": "Một số có chữ số tận cùng là 2, 4, 6, 8",
+    "re": "Số đó là số chẵn"
+  },
+  {
+    "con": "Cặp số \\left(2;1\\right). là nghiệm của phương trình",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương luôn lớn hơn 0",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh bằng nhau thì đó là tam giác đều",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ thì góc còn lại là góc vuông",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số chia hết cho 2 thì số đó là số chẵn",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 4 cạnh thì đó là tứ giác",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tạo thành hai góc đối đỉnh thì hai góc đó bằng nhau",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0 thì kết quả là 0",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng bằng nhau thì đó là hình vuông",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và một số là 4 thì số còn lại là 6",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Tìm m để phương trình 2mx=2x+m+4 có nghiệm duy nhất",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tính diện tích hình chữ nhật với chiều dài 5cm và chiều rộng 3cm",
+    "re": "Diện tích là 15cm²"
+  },
+  {
+    "con": "Giải phương trình 3x + 5 = 20",
+    "re": "Nghiệm x = 5"
+  },
+  {
+    "con": "Tính tổng của các số nguyên từ 1 đến 100",
+    "re": "Tổng là 5050"
+  },
+  {
+    "con": "Tìm giá trị của x trong phương trình x² - 9 = 0",
+    "re": "Nghiệm x = 3 hoặc x = -3"
+  },
+  {
+    "con": "Tính trung bình cộng của các số 4, 8, 12",
+    "re": "Trung bình cộng là 8"
+  },
+  {
+    "con": "Giải bất phương trình 2x - 3 > 5",
+    "re": "Nghiệm x > 4"
+  },
+  {
+    "con": "Tính chu vi hình tròn có bán kính 7cm",
+    "re": "Chu vi là 43.96cm"
+  },
+  {
+    "con": "Tìm số nguyên dương nhỏ nhất chia hết cho 6 và 8",
+    "re": "Số đó là 24"
+  },
+  {
+    "con": "Tính giá trị của biểu thức 2(3 + 4) - 5",
+    "re": "Giá trị là 9"
+  },
+  {
+    "con": "Cho đường thẳng d có phương trình y=ax+b. Biết đường thẳng d đi qua điểm I\\left(2;{3}\\right) và tạo với hai tia Ox, Oy một tam giác vuông cân. Khi đó tổng a+b bằng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh lần lượt là a, b, c và a + b > c, a + c > b, b + c > a thì tam giác đó tồn tại",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3 thì n cũng chia hết cho 6",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ thì góc còn lại là góc vuông",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn bất phương trình x > 0 thì x là số dương",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài l và chiều rộng w thì diện tích của hình chữ nhật đó bằng l * w",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên n là số chẵn thì n có thể viết dưới dạng 2k với k là số nguyên",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh thì tổng các góc trong của đa giác đó bằng (n-2) * 180 độ",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn x^2 = 16 thì x có thể bằng 4 hoặc -4",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đường tròn có bán kính r thì chu vi của đường tròn đó bằng 2πr",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho biết \\cos \\alpha = \\frac{-3}{5} . Giá trị của biểu thức E=\\xrightarrow[\\cot a-3\\tan a]{2\\cot a-\\tan a} bằng bao nhiêu",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương a và b bằng 20",
+    "re": "Giá trị của a và b có thể là (10, 10) hoặc (15, 5) hoặc nhiều cặp khác"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh a, b, c thỏa mãn a + b > c, a + c > b, b + c > a",
+    "re": "Tam giác đó tồn tại"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2",
+    "re": "n là số chẵn"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 3 và 5",
+    "re": "n chia hết cho 15"
+  },
+  {
+    "con": "Nếu một biểu thức đại số có dạng ax^2 + bx + c = 0 và b^2 - 4ac > 0",
+    "re": "Phương trình có hai nghiệm phân biệt"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài l và chiều rộng w",
+    "re": "Diện tích của hình chữ nhật là l * w"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn x^2 < 4",
+    "re": "x nằm trong khoảng (-2, 2)"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố p",
+    "re": "n có thể được phân tích thành tích của các số nguyên tố"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r",
+    "re": "Chu vi của hình tròn là 2\\pi r"
+  },
+  {
+    "con": "Trong hệ tọa độ Oxy, cho tam giác ABC thỏa mãn điều kiện AB = AC",
+    "re": "Tam giác ABC là tam giác cân"
+  },
+  {
+    "con": "Cho hai số a và b, nếu a > b",
+    "re": "Thì a - b > 0"
+  },
+  {
+    "con": "Trong một tam giác, tổng độ dài hai cạnh bất kỳ luôn lớn hơn độ dài cạnh còn lại",
+    "re": "Điều này được gọi là bất đẳng thức tam giác"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2",
+    "re": "Thì n là số chẵn"
+  },
+  {
+    "con": "Cho một đa giác có n cạnh, nếu n = 3",
+    "re": "Thì đa giác đó là tam giác"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn x^2 = 16",
+    "re": "Thì x có thể là 4 hoặc -4"
+  },
+  {
+    "con": "Trong một hình chữ nhật, nếu chiều dài là l và chiều rộng là w",
+    "re": "Thì diện tích A = l * w"
+  },
+  {
+    "con": "Nếu một số a là bội của số b",
+    "re": "Thì a có thể được viết dưới dạng a = k * b với k là số nguyên"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tại một điểm",
+    "re": "Thì chúng tạo thành hai cặp góc đối đỉnh"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố p",
+    "re": "Thì n có thể được phân tích thành tích của các số nguyên tố, bao gồm p"
+  },
+  {
+    "con": "Cho hai tập hợp A=\\left[-2;{3}\\right]  và B=(1;{+}\\infty). Tìm A\\cap\\ B",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3, thì n cũng chia hết cho 6",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số nguyên dương a và b là số chẵn, thì cả a và b đều là số chẵn hoặc cả hai đều là số lẻ",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau, thì tam giác đó là tam giác cân",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0, thì x^2 cũng lớn hơn 0",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 4 cạnh và 4 góc, thì đó là hình tứ giác",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau, thì góc đối đỉnh của chúng bằng nhau",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên n là số nguyên tố, thì n chỉ có hai ước số là 1 và chính nó",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r, thì diện tích của nó được tính bằng công thức A=\\pi r^2",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số thực x nhỏ hơn 0, thì giá trị tuyệt đối của x là -x",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Hệ phương trình sau \\left\\{\\begin{matrix}(x-1)^2+(y+1)^2+2xy=16\\\\2x-x^2+y^2=1\\end{matrix}\\right có bao nhiêu nghiệm",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương thì luôn lớn hơn hoặc bằng 2",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh đều bằng nhau thì đó là tam giác đều",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số chia hết cho 2 và 3 thì số đó cũng chia hết cho 6",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ thì góc còn lại là góc vuông",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0 thì kết quả là 0",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 4 cạnh thì đó là tứ giác",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số là số nguyên tố thì nó chỉ có hai ước số là 1 và chính nó",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì diện tích của nó là gấp 2 lần diện tích của hình vuông có cạnh bằng chiều rộng",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số âm được cộng với một số dương lớn hơn nó thì kết quả là số dương",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Trong hệ tọa độ Oxy, cho tam giác ABC cân tại A biết \\hat{A}=120^0 và AB=AC=a. Lấy điểm M trên cạnh BC sao cho BM=\\frac{2}{5}BC. Tính độ dài AM",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3 thì n cũng chia hết cho 6",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu hai góc đối đỉnh thì chúng bằng nhau",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì diện tích của nó bằng chiều rộng nhân với chiều dài",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 20 và một số lớn hơn số kia 4 thì hai số đó là 8 và 12",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh thì tổng các góc trong của nó bằng (n-2) x 180 độ",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có 3 chữ số thì n nằm trong khoảng từ 100 đến 999",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một đường thẳng cắt hai đường thẳng song song thì các góc đồng vị bằng nhau",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số là bội số của 5 thì chữ số tận cùng của nó là 0 hoặc 5",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì nó là tam giác cân",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Trong các hệ thức sau hệ thức nào đúng?",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương",
+    "re": "luôn là một số nguyên dương"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau",
+    "re": "thì nó là tam giác cân"
+  },
+  {
+    "con": "Nếu một số chia hết cho 2",
+    "re": "thì nó là số chẵn"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ",
+    "re": "thì góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0",
+    "re": "thì kết quả là 0"
+  },
+  {
+    "con": "Nếu một đa giác có 4 cạnh",
+    "re": "thì nó là tứ giác"
+  },
+  {
+    "con": "Nếu một số là bội của 3",
+    "re": "thì tổng các chữ số của nó cũng là bội của 3"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng bằng nhau",
+    "re": "thì nó là hình vuông"
+  },
+  {
+    "con": "Nếu một số là số nguyên tố",
+    "re": "thì nó chỉ có hai ước số là 1 và chính nó"
+  },
+  {
+    "con": "Có bao nhiêu giá trị nguyên của tham số m\\in\\left(-1;{4}\\right) để (m-7,m)\\subset\\left(-4;{3}\\right)?",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số nguyên dương a và b bằng 10,",
+    "re": "thì a và b có thể là (1, 9), (2, 8), (3, 7), (4, 6), (5, 5) và các cặp tương tự."
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh a, b, c thỏa mãn a + b > c, a + c > b, b + c > a,",
+    "re": "thì tam giác đó là hợp lệ."
+  },
+  {
+    "con": "Nếu một số nguyên n chia hết cho 2,",
+    "re": "thì n là số chẵn."
+  },
+  {
+    "con": "Nếu một số nguyên n chia hết cho 3,",
+    "re": "thì tổng các chữ số của n cũng chia hết cho 3."
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài l và chiều rộng w,",
+    "re": "thì diện tích của hình chữ nhật là A = l * w."
+  },
+  {
+    "con": "Nếu một số thực x nằm trong khoảng (a, b),",
+    "re": "thì x lớn hơn a và nhỏ hơn b."
+  },
+  {
+    "con": "Nếu một biểu thức đại số có dạng ax^2 + bx + c = 0,",
+    "re": "thì nghiệm của phương trình có thể được tìm bằng công thức nghiệm."
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố p,",
+    "re": "thì n có thể được phân tích thành tích của các số nguyên tố."
+  },
+  {
+    "con": "Nếu một dãy số có quy luật tăng dần,",
+    "re": "thì mỗi số sau lớn hơn số trước."
+  },
+  {
+    "con": "Cho tam giác ABC vuông tại A, góc B bằng 60o. Điều khẳng định nào sau đây là sai?",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số nguyên dương là số chẵn, thì cả hai số đó đều là số chẵn.",
+    "re": "Câu khẳng định sai"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh, thì nó được gọi là hình lục giác.",
+    "re": "Câu khẳng định đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2, thì nó là số chẵn.",
+    "re": "Câu khẳng định đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng, thì diện tích của nó là chiều dài nhân với chiều rộng.",
+    "re": "Câu khẳng định đúng"
+  },
+  {
+    "con": "Nếu một số là bội số của 3, thì nó cũng là bội số của 6.",
+    "re": "Câu khẳng định sai"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng là 90 độ, thì góc còn lại là góc vuông.",
+    "re": "Câu khẳng định đúng"
+  },
+  {
+    "con": "Nếu một số thập phân có phần thập phân là 0, thì nó là số nguyên.",
+    "re": "Câu khẳng định đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính gấp đôi bán kính của một hình tròn khác, thì diện tích của nó gấp bốn lần diện tích hình tròn kia.",
+    "re": "Câu khẳng định đúng"
+  },
+  {
+    "con": "Nếu một số nguyên âm được cộng với một số nguyên dương lớn hơn nó, thì kết quả sẽ là số dương.",
+    "re": "Câu khẳng định đúng"
+  },
+  {
+    "con": "Cho hàm số y=f(x)=2\\left(m-1\\right)x+\\frac{m\\left(x-2\\right)}{\\left|x-2\\right|}. Tìm m để đồ thị của hàm số cắt trục hoành cắt tại điểm có hoành độ thuộc khoảng \\left(1;{3}\\right).",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một tam giác có ba cạnh a, b, c. Nếu a + b > c và a + c > b và b + c > a,",
+    "re": "thì tam giác tồn tại"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3,",
+    "re": "thì n cũng chia hết cho 6"
+  },
+  {
+    "con": "Cho hai số a và b. Nếu a > b,",
+    "re": "thì a - b > 0"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh,",
+    "re": "thì tổng các góc trong của nó là (n - 2) × 180 độ"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0,",
+    "re": "thì x^2 cũng lớn hơn 0"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài l và chiều rộng w,",
+    "re": "thì diện tích của nó là A = l × w"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố p,",
+    "re": "thì n có thể được phân tích thành tích của các số nguyên tố"
+  },
+  {
+    "con": "Nếu một hàm số bậc nhất có dạng y = mx + b với m ≠ 0,",
+    "re": "thì đồ thị của nó là một đường thẳng nghiêng"
+  },
+  {
+    "con": "Nếu một số thực x nằm trong khoảng (a, b),",
+    "re": "thì x > a và x < b"
+  },
+  {
+    "con": "Trong hệ tọa độ Oxy, cho ba điểm A\\left(3;{4}\\right).,B\\left(2;{1}\\right). và C\\left(-1;{-2}\\right).. Biết điểm M\\left(a;{b}\\right). nằm trên đường thẳng BC sao cho góc \\widehat{AMB}=45^0. Khi đó a+b bằng:",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh lần lượt là a, b, c và thỏa mãn bất đẳng thức tam giác a + b > c, a + c > b, b + c > a,",
+    "re": "thì tam giác đó tồn tại"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3,",
+    "re": "thì n cũng chia hết cho 6"
+  },
+  {
+    "con": "Nếu hai đường thẳng song song cắt một đường thẳng thứ ba,",
+    "re": "thì các góc đồng vị giữa hai đường thẳng đó bằng nhau"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn bất phương trình x - 5 < 0,",
+    "re": "thì x < 5"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài l và chiều rộng w,",
+    "re": "thì diện tích của hình chữ nhật là A = l × w"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có chữ số tận cùng là 0,",
+    "re": "thì n chia hết cho 10"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh,",
+    "re": "thì tổng các góc trong của đa giác đó là (n - 2) × 180 độ"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn phương trình x^2 = 16,",
+    "re": "thì x có thể bằng 4 hoặc -4"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có tổng các chữ số bằng 9,",
+    "re": "thì n có thể chia hết cho 9"
+  },
+  {
+    "con": "Số nghiệm của phương trình \\frac{x^2-4x-2}{\\sqrt{x-2}}=\\sqrt{x-2} là:",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương luôn lớn hơn 0",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh đều bằng nhau thì đó là tam giác đều",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một số nguyên chia hết cho 2 thì số đó là số chẵn",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ thì góc còn lại là góc vuông",
+    "re": "Sai"
+  },
+  {
+    "con": "Nếu một số dương được nhân với một số âm thì kết quả là số âm",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì diện tích của nó là chiều rộng nhân với chiều dài",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một số nguyên không chia hết cho 3 thì số đó không thể là số lẻ",
+    "re": "Sai"
+  },
+  {
+    "con": "Nếu một đa giác có 5 cạnh thì đó là ngũ giác",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một số là bội số của 4 thì số đó cũng là bội số của 2",
+    "re": "Đúng"
+  },
+  {
+    "con": "Gọi A là tập hợp các số nguyên m\\in\\left(-2021;{2021}\\right) sao cho phương trình mx^2-mx+1=0 có nghiệm dương. Số phần tử của tập hợp A là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau, thì tam giác đó là tam giác cân.",
+    "re": "Định nghĩa của tam giác cân"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và hiệu của chúng là 2, thì hai số đó là 6 và 4.",
+    "re": "Giải hệ phương trình đơn giản"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3, thì n cũng chia hết cho 6.",
+    "re": "Quy tắc chia hết"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng, thì diện tích của hình chữ nhật là gấp 2 lần bình phương chiều rộng.",
+    "re": "Công thức tính diện tích hình chữ nhật"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có 3 chữ số, thì n nằm trong khoảng từ 100 đến 999.",
+    "re": "Định nghĩa số có 3 chữ số"
+  },
+  {
+    "con": "Nếu một số là bội của 5, thì chữ số tận cùng của số đó là 0 hoặc 5.",
+    "re": "Quy tắc bội số"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh, thì nó được gọi là hình lục giác.",
+    "re": "Định nghĩa hình lục giác"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng là 90 độ, thì góc còn lại là góc vuông.",
+    "re": "Tính chất của tam giác"
+  },
+  {
+    "con": "Nếu một số nguyên dương n là số chính phương, thì có tồn tại một số nguyên dương m sao cho n = m^2.",
+    "re": "Định nghĩa số chính phương"
+  },
+  {
+    "con": "Hãy chỉ ra phương trình bậc nhất một ẩn trong các phương trình sau:",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương luôn lớn hơn 0:",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh bằng nhau,",
+    "re": "thì đó là tam giác đều"
+  },
+  {
+    "con": "Nếu một số chia hết cho 2,",
+    "re": "thì số đó là số chẵn"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ,",
+    "re": "thì góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một biểu thức đại số có dạng ax + b = 0,",
+    "re": "thì nghiệm của phương trình là x = -b/a"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0,",
+    "re": "thì kết quả là 0"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng khác nhau,",
+    "re": "thì diện tích của nó lớn hơn 0"
+  },
+  {
+    "con": "Nếu một số là bội của 3,",
+    "re": "thì số đó có thể chia hết cho 3"
+  },
+  {
+    "con": "Nếu một đường thẳng cắt hai đường thẳng song song,",
+    "re": "thì các góc đồng vị sẽ bằng nhau"
+  },
+  {
+    "con": "Có 10 cặp vợ chồng đi dự tiệc. Tổng số cách chọn một người đàn ông và một người đàn bà trong bữa tiệc phát biểu ý kiến sao cho hai người đó không là vợ chồng?",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh đều bằng nhau thì tam giác đó là tam giác đều.",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và một trong hai số là 4 thì số còn lại là 6.",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 2 và dư 1 thì số đó là số lẻ.",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì diện tích của nó là chiều rộng nhân với chiều dài.",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0 thì kết quả là 0.",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh thì nó được gọi là hình lục giác.",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một số thập phân có phần nguyên là 3 và phần thập phân là 0.5 thì số đó là 3.5.",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính là 5 thì chu vi của nó được tính bằng công thức 2πr.",
+    "re": "Đúng"
+  },
+  {
+    "con": "Nếu một số được chia cho 3 và dư 0 thì số đó là bội số của 3.",
+    "re": "Đúng"
+  },
+  {
+    "con": "Mẫu số liệu thống kê cân nặng (đơn vị: tấn) của 10 con voi châu Á trưởng thành là:\n3,5        4,9        3,7        4,6        4,6        5,0        3,2        3,6        3,7        4,5\nKhoảng tứ phân vị của mẫu số liệu bằng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số nguyên dương là n, thì cả hai số đều nhỏ hơn n",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh đều bằng nhau, thì đó là tam giác đều",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2, thì số đó là số chẵn",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 4 cạnh và 4 góc, thì đó là hình tứ giác",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số có chữ số tận cùng là 0 hoặc 5, thì số đó chia hết cho 5",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r, thì diện tích của hình tròn đó bằng πr²",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có 3 chữ số, thì n nằm trong khoảng từ 100 đến 999",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số là bội số của 3, thì tổng các chữ số của số đó cũng là bội số của 3",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài l và chiều rộng w, thì diện tích của hình chữ nhật đó bằng l × w",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương",
+    "re": "là một số nguyên dương"
+  },
+  {
+    "con": "Một tam giác có ba cạnh",
+    "re": "thì tổng độ dài hai cạnh bất kỳ luôn lớn hơn độ dài cạnh còn lại"
+  },
+  {
+    "con": "Nếu hai số có cùng dấu",
+    "re": "thì tích của chúng là một số dương"
+  },
+  {
+    "con": "Nếu một số chia hết cho 2",
+    "re": "thì số đó là số chẵn"
+  },
+  {
+    "con": "Nếu một đa thức có bậc n",
+    "re": "thì số nghiệm của nó không vượt quá n"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác là bằng nhau",
+    "re": "thì tam giác đó là tam giác cân"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 1",
+    "re": "thì kết quả là chính số đó"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng",
+    "re": "thì diện tích của nó là chiều dài nhân chiều rộng"
+  },
+  {
+    "con": "Nếu một số là số nguyên tố",
+    "re": "thì nó chỉ có hai ước số là 1 và chính nó"
+  },
+  {
+    "con": "Nếu một biểu thức đại số được đơn giản hóa",
+    "re": "thì kết quả có thể khác với biểu thức ban đầu nhưng vẫn có giá trị tương đương"
+  },
+  {
+    "con": "Điều khẳng định nào sau đây là sai?",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Thống kê điểm kiểm tra một tiết môn Toán của một nhóm gồm 12 học sinh lớp ta được 7;5;7;7;7;7;5;8;9;6;10;10.. Tìm mốt của mẫu số liệu.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Giải phương trình 2x + 3 = 11.",
+    "re": "x = 4"
+  },
+  {
+    "con": "Tính diện tích hình chữ nhật có chiều dài 5 cm và chiều rộng 3 cm.",
+    "re": "Diện tích là 15 cm²"
+  },
+  {
+    "con": "Tính tổng các số nguyên từ 1 đến 100.",
+    "re": "Tổng là 5050"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh lần lượt là 3 cm, 4 cm và 5 cm, thì đó là tam giác vuông.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tìm số trung bình cộng của các số 2, 4, 6, 8, 10.",
+    "re": "Trung bình cộng là 6"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 và 3, thì nó cũng chia hết cho 6.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Giải bất phương trình x - 5 < 3.",
+    "re": "x < 8"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính 7 cm, thì chu vi của nó là 14π cm.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tính giá trị của biểu thức 3(2 + 4) - 5.",
+    "re": "Giá trị là 15"
+  },
+  {
+    "con": "Trong mặt phẳng với hệ tọa độ Oxy, cho đường thẳng d:3x-4y-1=0 và điểm I\\left(1;{-2}\\right). Gọi \\left(C\\right) là đường tròn có tâm I và cắt đường thẳng d  tại hai điểm A và B sao cho tam giác IAB có diện tích bằng 4. Phương trình đường tròn \\left(C\\right) là:",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3 thì n cũng chia hết cho 6.",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu hai góc đối đỉnh thì chúng bằng nhau.",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì tam giác đó là tam giác cân.",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và một trong hai số là 4 thì số còn lại là 6.",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có chữ số tận cùng là 0 thì n chia hết cho 10.",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì diện tích của nó là 2 lần bình phương chiều rộng.",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0 thì x bình phương cũng lớn hơn 0.",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một đa giác có tổng số đo các góc trong là 360 độ thì đó là một tứ giác.",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Nếu một số nguyên n chia hết cho 5 thì chữ số tận cùng của n có thể là 0 hoặc 5.",
+    "re": "Điều này đúng"
+  },
+  {
+    "con": "Trong mặt phẳng Oxy, cho hai đường thẳng \\Delta_1:x+2y-6=0 và \\Delta_2: \\left\\{\\begin{matrix}x=3+3t\\\\y=1+t\\end{matrix}\\right. Tính góc tạo bởi \\Delta_1 và \\Delta_2",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một tam giác có ba cạnh a, b, c. Nếu a + b > c và a + c > b và b + c > a",
+    "re": "Tam giác tồn tại"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3",
+    "re": "Thì n cũng chia hết cho 6"
+  },
+  {
+    "con": "Trong một hình chữ nhật, nếu chiều dài là l và chiều rộng là w",
+    "re": "Diện tích của hình chữ nhật là l * w"
+  },
+  {
+    "con": "Nếu một số thực x là nghiệm của phương trình bậc hai ax^2 + bx + c = 0 với a ≠ 0",
+    "re": "Thì x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh và n ≥ 3",
+    "re": "Thì tổng số góc trong của đa giác là (n - 2) * 180 độ"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố p",
+    "re": "Thì n có thể được phân tích thành tích của các số nguyên tố, bao gồm p"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r",
+    "re": "Thì chu vi của hình tròn là 2πr và diện tích là πr^2"
+  },
+  {
+    "con": "Nếu một số thực x là số dương và y là số âm",
+    "re": "Thì tích xy là số âm"
+  },
+  {
+    "con": "Nếu một dãy số là cấp số cộng với số hạng đầu a và công sai d",
+    "re": "Thì số hạng thứ n của dãy là a + (n - 1)d"
+  },
+  {
+    "con": "Phương trình tổng quát của đường thẳng d đi qua \\left(1;{2}\\right). và vuông góc với đường thẳng   là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương luôn lớn hơn hoặc bằng 2",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì nó là tam giác cân",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên chia hết cho 2 thì nó là số chẵn",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ thì góc còn lại là góc vuông",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số có chữ số tận cùng là 0 hoặc 5 thì nó chia hết cho 5",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 4 cạnh thì nó là tứ giác",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau thì chúng tạo thành hai cặp góc đối đỉnh",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số là bội của 3 thì tổng các chữ số của nó cũng là bội của 3",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r thì diện tích của nó là \\pi r^2",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Phương trình nào sau đây là phương trình đường thẳng không song song với đường thẳng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương luôn lớn hơn 0",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì nó là tam giác cân",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số chia hết cho 2 thì nó là số chẵn",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ thì góc còn lại là góc vuông",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0 thì kết quả là 0",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng bằng nhau thì nó là hình vuông",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số là bội số của 3 thì tổng các chữ số của nó cũng là bội số của 3",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh thì nó được gọi là hình lục giác",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số có chữ số tận cùng là 5 hoặc 0 thì nó là số chia hết cho 5",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Một Elip có độ dài trục lớn bằng 12, độ dài trục bé bằng 8",
+    "re": "có phương trình là (x^2/36) + (y^2/16) = 1"
+  },
+  {
+    "con": "Một tam giác có ba cạnh lần lượt là 3, 4, 5",
+    "re": "là tam giác vuông"
+  },
+  {
+    "con": "Một số nguyên dương chia hết cho 2",
+    "re": "là số chẵn"
+  },
+  {
+    "con": "Một hình chữ nhật có chiều dài bằng 10 và chiều rộng bằng 5",
+    "re": "có diện tích bằng 50"
+  },
+  {
+    "con": "Một số nguyên dương có tổng các chữ số bằng 9",
+    "re": "có thể là 9, 18, 27, ..."
+  },
+  {
+    "con": "Một đa giác có 6 cạnh",
+    "re": "gọi là hình lục giác"
+  },
+  {
+    "con": "Một số thực dương có giá trị lớn hơn 0",
+    "re": "có căn bậc hai là số thực dương"
+  },
+  {
+    "con": "Một đường thẳng có hệ số góc bằng 0",
+    "re": "là đường thẳng ngang"
+  },
+  {
+    "con": "Một hình tròn có bán kính bằng 4",
+    "re": "có diện tích bằng 16π"
+  },
+  {
+    "con": "Một số nguyên dương chia hết cho 3 và 5",
+    "re": "có thể chia hết cho 15"
+  },
+  {
+    "con": "Rút ngẫu nhiên đồng thời 2 thẻ từ một hộp có 20 tấm thẻ được đánh số từ 1 đến 20. Xác suất để tổng hai số trên hai tấm thẻ được rút ra bằng 10 là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một tam giác có tổng ba góc bằng 180 độ. Nếu một góc của tam giác là 90 độ, thì hai góc còn lại phải có tổng là",
+    "re": "90 độ"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 2 và có dư 0, thì số đó là",
+    "re": "số chẵn"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng, thì tỷ lệ giữa chiều dài và chiều rộng là",
+    "re": "2:1"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 3 và có dư 1, thì số đó có thể được biểu diễn dưới dạng",
+    "re": "3k + 1 với k là số nguyên"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh, thì nó được gọi là",
+    "re": "lục giác"
+  },
+  {
+    "con": "Nếu một số thập phân có phần thập phân là 0.25, thì nó có thể được biểu diễn dưới dạng phân số là",
+    "re": "1/4"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r, thì diện tích của hình tròn đó được tính bằng công thức",
+    "re": "πr²"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0, thì kết quả sẽ là",
+    "re": "0"
+  },
+  {
+    "con": "Nếu một hình vuông có diện tích A, thì độ dài cạnh của hình vuông đó được tính bằng",
+    "re": "√A"
+  },
+  {
+    "con": "Trong hệ trục tọa độ Oxy, tính khoảng cách giữa hai điểm M\\left(-3;{1}\\right) và N\\left(1;{22}\\right).",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Giải phương trình 2x + 3 = 11.",
+    "re": "Giá trị của x là 4"
+  },
+  {
+    "con": "Tính diện tích hình chữ nhật có chiều dài 5 cm và chiều rộng 3 cm.",
+    "re": "Diện tích là 15 cm²"
+  },
+  {
+    "con": "Tính tổng của hai số nguyên 7 và 12.",
+    "re": "Tổng là 19"
+  },
+  {
+    "con": "Tính giá trị trung bình của các số 4, 8, 10.",
+    "re": "Giá trị trung bình là 7.33"
+  },
+  {
+    "con": "Giải bất phương trình x - 5 < 3.",
+    "re": "Giá trị của x là x < 8"
+  },
+  {
+    "con": "Tính chu vi hình tròn có bán kính 4 cm.",
+    "re": "Chu vi là 25.12 cm"
+  },
+  {
+    "con": "Tính giá trị của biểu thức 3(2 + 4) - 5.",
+    "re": "Giá trị là 15"
+  },
+  {
+    "con": "Trong tam giác có ba cạnh a, b, c, nếu a + b > c thì tam giác tồn tại.",
+    "re": "Tam giác tồn tại"
+  },
+  {
+    "con": "Tính phần trăm của 30 trong 200.",
+    "re": "Phần trăm là 15%"
+  },
+  {
+    "con": "Chiều dài của một cây cầu là l=1547,25m\\pm0,01m. Hãy cho biết số quy tròn của l.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương a và b là S. Nếu a = 5 và b = 7, hãy tính S.",
+    "re": "S = 12"
+  },
+  {
+    "con": "Một tam giác có ba cạnh a, b, c. Nếu a = 3, b = 4 và c = 5, hãy xác định xem tam giác này có phải là tam giác vuông không.",
+    "re": "Tam giác này là tam giác vuông"
+  },
+  {
+    "con": "Nếu một số nguyên x chia hết cho 2, thì x là số chẵn.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài l và chiều rộng w, thì diện tích A = l × w.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số thập phân có phần nguyên là 3 và phần thập phân là 0,75, thì số đó là 3,75.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một dãy số có công sai d và số hạng đầu a, thì số hạng thứ n được tính bằng a + (n-1)d.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r, thì chu vi C = 2πr.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số là 1 và chính nó, thì n là số nguyên tố.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một biểu thức đại số có dạng ax^2 + bx + c = 0, thì nghiệm của nó được tính bằng công thức nghiệm.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Trong mặt phẳng Oxy cho 4 điểm A\\left(0;{1}\\right), B\\left(1;{3}\\right), \\left(0;{2}\\right), \\left(-1;{-1}\\right). Từ 4 điểm trên kẻ được bao nhiêu đường thẳng phân biệt?",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh đều bằng nhau thì tam giác đó là tam giác đều.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và một trong hai số là 4 thì số còn lại là 6.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 thì số đó là số chẵn.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì tỷ lệ giữa chiều dài và chiều rộng là 2:1.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh thì nó được gọi là hình lục giác.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0 thì kết quả là 0.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đường thẳng cắt hai đường thẳng song song thì các góc trong cùng phía tạo thành là góc đồng vị.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số có chữ số hàng đơn vị là 5 thì số đó là số lẻ.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r thì diện tích của nó được tính bằng công thức A = πr².",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Giả sử từ tỉnh A đến tỉnh B có thể đi bằng các phương tiện: ô tô, tàu hỏa, máy bay, tàu thủy. Mỗi ngày có 8 chuyến xe ô tô, 3 chuyến tàu hỏa, 5 chuyến máy bay, 4 chuyến tàu thủy. Có bao nhiêu cách đi từ A đến B bằng các phương tiện kể trên?",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh có độ dài lần lượt là a, b, c và thỏa mãn bất đẳng thức tam giác (a + b > c, a + c > b, b + c > a),",
+    "re": "thì tam giác đó tồn tại."
+  },
+  {
+    "con": "Nếu một số nguyên dương n được chia cho 2 và dư 0,",
+    "re": "thì n là số chẵn."
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài là l và chiều rộng là w,",
+    "re": "thì diện tích của hình chữ nhật là A = l * w."
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn x^2 = 25,",
+    "re": "thì x có thể là 5 hoặc -5."
+  },
+  {
+    "con": "Nếu một đa thức bậc hai có dạng ax^2 + bx + c với a ≠ 0,",
+    "re": "thì nó có tối đa 2 nghiệm thực."
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r,",
+    "re": "thì chu vi của hình tròn là C = 2πr."
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố p,",
+    "re": "thì n có thể được phân tích thành tích của các số nguyên tố."
+  },
+  {
+    "con": "Nếu một dãy số có quy luật tăng dần và mỗi số sau lớn hơn số trước một hằng số d,",
+    "re": "thì dãy số đó là một cấp số cộng."
+  },
+  {
+    "con": "Nếu một hình vuông có cạnh dài a,",
+    "re": "thì diện tích của hình vuông là A = a^2."
+  },
+  {
+    "con": "Số cách sắp xếp 6 học sinh thành một hàng dọc là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của ba góc trong một tam giác là",
+    "re": "180 độ"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 thì",
+    "re": "số đó là số chẵn"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì",
+    "re": "diện tích của nó là chiều rộng nhân với chiều dài"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau thì",
+    "re": "chúng tạo thành các cặp góc đối đỉnh"
+  },
+  {
+    "con": "Nếu một số có chữ số tận cùng là 0 hoặc 5 thì",
+    "re": "số đó chia hết cho 5"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh thì",
+    "re": "tổng các góc trong của nó là (n-2) x 180 độ"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0 thì",
+    "re": "kết quả là 0"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r thì",
+    "re": "chu vi của nó là 2πr"
+  },
+  {
+    "con": "Nếu một số là bội của 3 thì",
+    "re": "tổng các chữ số của nó cũng là bội của 3"
+  },
+  {
+    "con": "Trong hệ trục tọa độ Oxy, cho \\overrightarrow{u}=3\\overrightarrow{i}+4\\overrightarrow{j}. Tọa độ của \\overrightarrow{u} là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một tam giác có ba cạnh với độ dài 3, 4 và 5. Tam giác này là",
+    "re": "Tam giác vuông"
+  },
+  {
+    "con": "Nếu tổng của hai số là 20 và hiệu của chúng là 4, thì hai số đó là",
+    "re": "12 và 8"
+  },
+  {
+    "con": "Trong một hình chữ nhật, nếu chiều dài gấp đôi chiều rộng, và chiều rộng là x, thì diện tích của hình chữ nhật là",
+    "re": "2x^2"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 và 3, thì số đó cũng chia hết cho",
+    "re": "6"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh, thì nó được gọi là",
+    "re": "lục giác"
+  },
+  {
+    "con": "Nếu một số có giá trị tuyệt đối là 5, thì số đó có thể là",
+    "re": "5 hoặc -5"
+  },
+  {
+    "con": "Nếu một đường thẳng có độ dốc là 2 và đi qua điểm (1, 3), thì phương trình của đường thẳng đó là",
+    "re": "y = 2x + 1"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r, thì diện tích của hình tròn đó là",
+    "re": "πr^2"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố là 2 và 3, thì n có thể được viết dưới dạng",
+    "re": "2^a * 3^b (với a, b >= 0)"
+  },
+  {
+    "con": "Một tổ có 10 học \\sinh. Hỏi có bao nhiêu cách chọn ra 2 học \\sinh từ tổ đó để giữ hai chức vụ tổ trưởng và tổ phó.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một tam giác có ba cạnh có độ dài lần lượt là 3, 4 và 5. Hỏi tam giác này có phải là tam giác vuông không?",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 thì số đó là số chẵn.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và một trong hai số là 4, thì số còn lại là 6.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài là 8 và chiều rộng là 5, thì diện tích của hình chữ nhật là 40.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương có chữ số tận cùng là 5, thì số đó chia hết cho 5.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh, thì nó được gọi là hình lục giác.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số có giá trị tuyệt đối là 7, thì số đó có thể là 7 hoặc -7.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đường thẳng cắt hai đường thẳng khác và tạo thành các góc so le trong bằng nhau, thì hai đường thẳng đó song song.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0, thì kết quả là 0.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Trong mặt phẳng với hệ tọa độ Oxy, tọa độ tâm I và bán kính R của đường tròn (C): x^2+y^2-6x+2y+6=0 là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai góc phụ nhau là",
+    "re": "180 độ"
+  },
+  {
+    "con": "Tích của hai số âm là",
+    "re": "một số dương"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau, thì nó là",
+    "re": "tam giác cân"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2, thì nó là",
+    "re": "số chẵn"
+  },
+  {
+    "con": "Trong một tam giác vuông, bình phương cạnh huyền bằng tổng bình phương hai cạnh góc vuông, theo định lý",
+    "re": "Pythagore"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh, thì tổng các góc trong của nó là",
+    "re": "(n-2) x 180 độ"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau, thì góc đối đỉnh của chúng là",
+    "re": "bằng nhau"
+  },
+  {
+    "con": "Nếu một số có chữ số tận cùng là 0 hoặc 5, thì nó là",
+    "re": "số chia hết cho 5"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng bằng nhau, thì nó là",
+    "re": "hình vuông"
+  },
+  {
+    "con": "Từ một hộp chứa 16 quả cầu gồm 7 quả màu đỏ và 9 quả màu xanh, lấy ngẫu nhiên đồng thời hai quả. Xác suất để lấy được hai quả có màu khác nhau bằng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau, thì tam giác đó là tam giác cân",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 20 và một số là 12, thì số còn lại bằng",
+    "re": "8"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 2 và dư 1, thì số đó là số lẻ",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài là 5 cm và chiều rộng là 3 cm, thì diện tích của hình chữ nhật đó bằng",
+    "re": "15 cm²"
+  },
+  {
+    "con": "Nếu một số được nhân với 0, thì kết quả luôn bằng",
+    "re": "0"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh, thì nó được gọi là hình lục giác",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 3 và dư 0, thì số đó là bội số của",
+    "re": "3"
+  },
+  {
+    "con": "Nếu một đường thẳng cắt hai đường thẳng song song, thì các góc trong cùng phía sẽ có tổng bằng",
+    "re": "180 độ"
+  },
+  {
+    "con": "Nếu một số có chữ số hàng đơn vị là 5, thì số đó là số lẻ",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho đường thẳng đường thẳng \\Delta có phương trình y=-3x+6. Khẳng định nào sau đây là khẳng định sai?",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một tam giác có ba cạnh có độ dài 3, 4 và 5.",
+    "re": "Tam giác này là tam giác vuông"
+  },
+  {
+    "con": "Một số nguyên dương chia hết cho 2.",
+    "re": "Số đó là số chẵn"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương là 10.",
+    "re": "Cả hai số đều nhỏ hơn 10"
+  },
+  {
+    "con": "Một hình chữ nhật có chiều dài 8 cm và chiều rộng 5 cm.",
+    "re": "Diện tích của hình chữ nhật là 40 cm²"
+  },
+  {
+    "con": "Một số nguyên âm được cộng với một số nguyên dương.",
+    "re": "Kết quả có thể là số âm, số dương hoặc số 0"
+  },
+  {
+    "con": "Một đa giác có 6 cạnh.",
+    "re": "Đó là hình lục giác"
+  },
+  {
+    "con": "Một số thập phân có phần nguyên là 3 và phần thập phân là 0.75.",
+    "re": "Số đó là 3.75"
+  },
+  {
+    "con": "Một biểu thức đại số có dạng 2x + 3x.",
+    "re": "Biểu thức này có thể rút gọn thành 5x"
+  },
+  {
+    "con": "Một số nguyên dương được nhân với 0.",
+    "re": "Kết quả là 0"
+  },
+  {
+    "con": "Cho hai hàm số bậc hai y=f(x)=ax^2+bx+c;y=g(x)=mx^2+nx+e có đồ thị như hình vẽ. Phương trình \\sqrt{f\\left(x\\right)}=\\sqrt{g\\left(x\\right)} có số nghiệm là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số nguyên dương a và b là chẵn",
+    "re": "thì cả a và b đều là số chẵn hoặc cả hai đều là số lẻ"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau",
+    "re": "thì tam giác đó là tam giác cân"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2",
+    "re": "thì n là số chẵn"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh",
+    "re": "thì đó là hình lục giác"
+  },
+  {
+    "con": "Nếu một hàm số bậc nhất có hệ số góc dương",
+    "re": "thì đồ thị của hàm số đó là một đường thẳng nghiêng lên"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn bất phương trình x > 0",
+    "re": "thì x là số dương"
+  },
+  {
+    "con": "Nếu diện tích của một hình chữ nhật là A và chiều dài là l",
+    "re": "thì chiều rộng w được tính bằng công thức w = A/l"
+  },
+  {
+    "con": "Nếu một số nguyên n có chữ số cuối là 0",
+    "re": "thì n chia hết cho 10"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r",
+    "re": "thì diện tích của hình tròn đó được tính bằng công thức S = πr^2"
+  },
+  {
+    "con": "Trong số 45 học sinh của lớp 10A có 17 bạn xếp loại học lực giỏi, 22 bạn xếp loại hạnh kiểm tốt, trong đó có 9 bạn vừa xếp loại học lực giỏi vừa xếp loại hạnh kiểm tốt. Hỏi lớp 10A có bao nhiêu bạn chưa được xếp loại học lực giỏi hoặc hạnh kiểm tốt.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh có độ dài lần lượt là 3 cm, 4 cm và 5 cm, thì tam giác đó là tam giác vuông.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 20 và hiệu của chúng là 4, thì hai số đó là 12 và 8.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm, thì diện tích của hình chữ nhật đó là 50 cm².",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 và 3, thì số đó cũng chia hết cho 6.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số có chữ số hàng đơn vị là 0, thì số đó là bội số của 10.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh, thì nó được gọi là hình lục giác.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 5 và dư 2, thì số đó có thể được biểu diễn dưới dạng 5k + 2 với k là số nguyên.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đường thẳng cắt hai đường thẳng song song, thì các góc trong cùng phía sẽ bằng nhau.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số có giá trị tuyệt đối là 7, thì số đó có thể là 7 hoặc -7.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho tam giác ABC vuông tại A có \\hat{B}=30^\\circ, AC=2. Gọi M là trung điểm của BC. Tính giá trị của biểu thức P=\\overrightarrow{AM}.\\overrightarrow{BM}.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số nguyên dương a và b bằng 10, thì a và b có thể là 1 và 9.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng, thì diện tích của hình chữ nhật là 2x^2, với x là chiều rộng.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2, thì n là số chẵn.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh a, b, c thỏa mãn bất đẳng thức tam giác, thì tổng của hai cạnh bất kỳ luôn lớn hơn cạnh còn lại.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0, thì x^2 cũng lớn hơn 0.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh, thì tổng các góc trong của đa giác đó là (n-2) * 180 độ.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một biểu thức đại số có dạng ax + b = 0, với a khác 0, thì nghiệm của phương trình là x = -b/a.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố p, thì p là một trong những ước số của n.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r, thì diện tích của hình tròn là \\pi r^2.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho hai vectơ  \\overrightarrow{a}, \\overrightarrow{b}  sao cho \\overrightarrow{a} = \\sqrt{2}  và hai vectơ \\overrightarrow{b} = 2  vuông góc với nhau. Tính góc giữa hai vectơ \\overrightarrow{a} và \\overrightarrow{b}.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Cho một tam giác có ba cạnh a, b, c. Nếu a + b > c, b + c > a và c + a > b,",
+    "re": "Tam giác tồn tại"
+  },
+  {
+    "con": "Nếu một số nguyên n chia hết cho 2 và 3,",
+    "re": "thì n chia hết cho 6"
+  },
+  {
+    "con": "Cho một hình chữ nhật có chiều dài l và chiều rộng w. Nếu tính diện tích A = l * w,",
+    "re": "thì A là diện tích của hình chữ nhật"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0,",
+    "re": "thì x bình phương x^2 cũng lớn hơn 0"
+  },
+  {
+    "con": "Cho một dãy số số nguyên liên tiếp a, a+1, a+2. Nếu a là số chẵn,",
+    "re": "thì a+1 là số lẻ và a+2 là số chẵn"
+  },
+  {
+    "con": "Nếu tổng của hai số a và b bằng 10,",
+    "re": "thì hiệu của chúng có thể là bất kỳ giá trị nào từ -10 đến 10"
+  },
+  {
+    "con": "Cho một hình tròn có bán kính r. Nếu tính chu vi C = 2 * π * r,",
+    "re": "thì C là chu vi của hình tròn"
+  },
+  {
+    "con": "Nếu một số nguyên n là số nguyên tố,",
+    "re": "thì n chỉ có hai ước số là 1 và n"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh,",
+    "re": "thì tổng các góc trong của nó là (n-2) * 180 độ"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương luôn lớn hơn hoặc bằng 2",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau, thì nó là tam giác cân",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên chia hết cho 2, thì nó là số chẵn",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ, thì góc còn lại là góc vuông",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0, thì kết quả là 0",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng bằng nhau, thì nó là hình vuông",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho chính nó, thì kết quả luôn bằng 1",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh, thì nó được gọi là hình lục giác",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu một số thập phân có phần thập phân bằng 0, thì nó là số nguyên",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Nếu tổng của ba số liên tiếp là 3n + 3 (với n là số nguyên), thì ba số đó có thể được biểu diễn dưới dạng n, n+1, n+2",
+    "re": "Kết quả đúng"
+  },
+  {
+    "con": "Cho phương trình \\left|x^2-4x+m-1\\right|=2x^2-2x. Gọi S là tổng các giá trị nguyên của   sao cho phương trình trên có đúng hai nghiệm phân biệt. Khi đó S bằng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một tam giác có ba cạnh a, b, c. Nếu a + b > c và a + c > b và b + c > a",
+    "re": "thì tam giác đó tồn tại"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3",
+    "re": "thì n cũng chia hết cho 6"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng là 90 độ",
+    "re": "thì góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0",
+    "re": "thì x bình phương cũng lớn hơn 0"
+  },
+  {
+    "con": "Nếu một đa thức bậc 2 có hai nghiệm phân biệt",
+    "re": "thì delta của đa thức đó lớn hơn 0"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng đều tăng gấp đôi",
+    "re": "thì diện tích của hình chữ nhật tăng gấp bốn lần"
+  },
+  {
+    "con": "Nếu một số nguyên n là số chẵn",
+    "re": "thì n bình phương cũng là số chẵn"
+  },
+  {
+    "con": "Nếu một đường thẳng cắt hai đường thẳng song song",
+    "re": "thì các góc so le trong bằng nhau"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và hiệu của chúng là 2",
+    "re": "thì hai số đó là 6 và 4"
+  },
+  {
+    "con": "Trong mặt phẳng với hệ tọa độ Oxy, cho tam giác ABC có đỉnh A \\left(2;{1}\\right), B\\left(2;{-3}\\right)  và C\\left(-2;{-1}\\right) . Trực tâm H của tam giác ABC có tọa độ . Biểu thức S=3a+2b bằng bao nhiêu?",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 2 và dư 0,",
+    "re": "thì số đó là số chẵn"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và một trong hai số là 4,",
+    "re": "thì số còn lại là 6"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài là 8 cm và chiều rộng là 5 cm,",
+    "re": "thì diện tích của hình chữ nhật là 40 cm²"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh lần lượt là 3 cm, 4 cm và 5 cm,",
+    "re": "thì tam giác đó là tam giác vuông"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0,",
+    "re": "thì kết quả là 0"
+  },
+  {
+    "con": "Nếu một số có giá trị tuyệt đối là 7,",
+    "re": "thì số đó có thể là 7 hoặc -7"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh,",
+    "re": "thì đó là hình lục giác"
+  },
+  {
+    "con": "Nếu một số thập phân có phần nguyên là 3 và phần thập phân là 0.75,",
+    "re": "thì số đó là 3.75"
+  },
+  {
+    "con": "Nếu một đường thẳng có độ dốc là 2 và đi qua điểm (1, 3),",
+    "re": "thì phương trình của đường thẳng đó là y = 2x + 1"
+  },
+  {
+    "con": "Cho hàm số y=-x^2-\\left(m^2-23\\right)x+2023. Có bao nhiêu giá trị m nguyên dương để hàm số đồng biến trên  ?",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương a và b bằng 10. Có bao nhiêu cặp (a, b) thỏa mãn điều kiện này?",
+    "re": "Có 6 cặp (a, b) thỏa mãn"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh a, b, c thỏa mãn bất đẳng thức tam giác, thì tam giác đó tồn tại.",
+    "re": "Tam giác tồn tại"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 và 3, thì n cũng chia hết cho 6.",
+    "re": "n chia hết cho 6"
+  },
+  {
+    "con": "Nếu một đa thức bậc 2 có hai nghiệm phân biệt, thì delta của đa thức đó lớn hơn 0.",
+    "re": "Delta lớn hơn 0"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng, thì diện tích của hình chữ nhật là 2 lần bình phương chiều rộng.",
+    "re": "Diện tích là 2 lần bình phương chiều rộng"
+  },
+  {
+    "con": "Nếu một số thực x thỏa mãn x^2 < 4, thì x nằm trong khoảng (-2, 2).",
+    "re": "x nằm trong khoảng (-2, 2)"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có 3 ước số, thì n là bình phương của một số nguyên tố.",
+    "re": "n là bình phương của một số nguyên tố"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r, thì chu vi của hình tròn đó là 2πr.",
+    "re": "Chu vi là 2πr"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có tổng các chữ số bằng 9, thì n có thể chia hết cho 9.",
+    "re": "n có thể chia hết cho 9"
+  },
+  {
+    "con": "Cho các số 0,1,2,3,4,5,6,7. Có bao nhiêu số gồm 7 chữ số mà số tìm được chia hết cho 6 đồng thời các chữ số là khác nhau.",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh đều bằng nhau thì tam giác đó là tam giác đều.",
+    "re": "Tam giác đều"
+  },
+  {
+    "con": "Nếu tổng của hai số là 10 và một trong hai số là 4 thì số còn lại là 6.",
+    "re": "Số còn lại là 6"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 thì số đó là số chẵn.",
+    "re": "Số chẵn"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì tỷ lệ giữa chiều dài và chiều rộng là 2:1.",
+    "re": "Tỷ lệ 2:1"
+  },
+  {
+    "con": "Nếu một số có chữ số tận cùng là 0 thì số đó chia hết cho 10.",
+    "re": "Chia hết cho 10"
+  },
+  {
+    "con": "Nếu một đa giác có 5 cạnh thì đó là ngũ giác.",
+    "re": "Ngũ giác"
+  },
+  {
+    "con": "Nếu một số nguyên âm được cộng với một số nguyên dương lớn hơn nó thì kết quả sẽ là một số nguyên dương.",
+    "re": "Số nguyên dương"
+  },
+  {
+    "con": "Nếu một số được nhân với 0 thì kết quả luôn là 0.",
+    "re": "Kết quả là 0"
+  },
+  {
+    "con": "Nếu một đường thẳng cắt hai đường thẳng song song thì các góc tạo thành ở hai bên đường cắt là bằng nhau.",
+    "re": "Các góc bằng nhau"
+  },
+  {
+    "con": "Tổng S= C^{0}_{2020} +2C^{2}_{2920} + 3C^{2}_{2020} + ... + {2020}C^{2019}_{2020} + {2021}C^{2020}_{2020} bằng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tích của hai số âm sẽ là",
+    "re": "một số dương"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì",
+    "re": "nó là tam giác cân"
+  },
+  {
+    "con": "Nếu một số nguyên dương chia hết cho 2 thì",
+    "re": "nó là số chẵn"
+  },
+  {
+    "con": "Nếu tổng của hai góc trong một tam giác bằng 90 độ thì",
+    "re": "góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một số có chữ số tận cùng là 0 hoặc 5 thì",
+    "re": "nó chia hết cho 5"
+  },
+  {
+    "con": "Nếu hai đường thẳng cắt nhau tạo thành hai góc đối đỉnh thì",
+    "re": "hai góc đó bằng nhau"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài gấp đôi chiều rộng thì",
+    "re": "diện tích của nó là chiều rộng nhân với chiều dài"
+  },
+  {
+    "con": "Nếu một số nguyên dương có 3 chữ số thì",
+    "re": "nó nằm trong khoảng từ 100 đến 999"
+  },
+  {
+    "con": "Nếu một số là bội số của 3 thì",
+    "re": "tổng các chữ số của nó cũng là bội số của 3"
+  },
+  {
+    "con": "Cho hòn đảo D cách bờ 4km (CD=4km). Ngôi làng B cách C một khoảng 7km. Nhà nước muốn xây dựng một trạm y tế A trên đất liền sao cho có thể phục vụ được cho dân cư ở cả đảo D và làng B. Biết trung bình vận tốc di chuyển tàu cứu thương là 100km/h, xe cứu thương là 80km/h. Vậy nên đặt trạm y tế A cách đảo D bao xa để thời gian cứu thương cho hai địa điểm là như nhau? (tham khảo hình vẽ bên dưới)",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu tổng của hai số là 20 và một số là 8,",
+    "re": "thì số còn lại là 12."
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh lần lượt là 3cm, 4cm và 5cm,",
+    "re": "thì tam giác đó là tam giác vuông."
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 2 và dư 1,",
+    "re": "thì số đó là số lẻ."
+  },
+  {
+    "con": "Nếu diện tích của một hình chữ nhật là 24m² và chiều dài là 6m,",
+    "re": "thì chiều rộng là 4m."
+  },
+  {
+    "con": "Nếu một số được nhân với 0,",
+    "re": "thì kết quả luôn là 0."
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính là 5cm,",
+    "re": "thì diện tích của nó là khoảng 78.5cm²."
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 3 và dư 0,",
+    "re": "thì số đó là số chia hết cho 3."
+  },
+  {
+    "con": "Nếu tổng của ba số là 30 và hai số là 10 và 15,",
+    "re": "thì số còn lại là 5."
+  },
+  {
+    "con": "Nếu một hình vuông có cạnh dài 4cm,",
+    "re": "thì chu vi của nó là 16cm."
+  },
+  {
+    "con": "Số ước nguyên dương của 529200 bằng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương a và b bằng",
+    "re": "Câu trả lời đúng nếu a + b = tổng"
+  },
+  {
+    "con": "Tích của hai số nguyên dương a và b bằng",
+    "re": "Câu trả lời đúng nếu a × b = tích"
+  },
+  {
+    "con": "Số trung bình cộng của n số a1, a2, ..., an bằng",
+    "re": "Câu trả lời đúng nếu (a1 + a2 + ... + an) / n = trung bình cộng"
+  },
+  {
+    "con": "Diện tích hình chữ nhật có chiều dài l và chiều rộng w bằng",
+    "re": "Câu trả lời đúng nếu l × w = diện tích"
+  },
+  {
+    "con": "Chu vi hình vuông có cạnh a bằng",
+    "re": "Câu trả lời đúng nếu 4 × a = chu vi"
+  },
+  {
+    "con": "Thể tích hình hộp chữ nhật có chiều dài l, chiều rộng w và chiều cao h bằng",
+    "re": "Câu trả lời đúng nếu l × w × h = thể tích"
+  },
+  {
+    "con": "Số lượng số nguyên tố nhỏ hơn 20 bằng",
+    "re": "Câu trả lời đúng nếu có 8 số nguyên tố"
+  },
+  {
+    "con": "Giá trị tuyệt đối của số x bằng",
+    "re": "Câu trả lời đúng nếu |x| = x nếu x ≥ 0 và |x| = -x nếu x < 0"
+  },
+  {
+    "con": "Hệ số góc của đường thẳng đi qua hai điểm (x1, y1) và (x2, y2) bằng",
+    "re": "Câu trả lời đúng nếu (y2 - y1) / (x2 - x1) = hệ số góc"
+  },
+  {
+    "con": "Để lì xì đầu năm cho các cháu, Bác Thắm chuẩn bị 30 bao lì xì có họa tiết khác nhau gồm 15 bao mỗi bao mệnh giá 50 nghìn đồng, 10 bao mỗi bao mệnh giá 100 nghìn đồng và 5 bao mỗi bao mệnh giá 200 nghìn đồng. Bạn Tuệ Minh nhỏ tuổi nhất nên được bốc trước 3 bao lì xì. Xác suất để bạn Tuệ Minh nhận được 300 nghìn tiền lì xì bằng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh có độ dài lần lượt là 3 cm, 4 cm và 5 cm",
+    "re": "thì tam giác đó là tam giác vuông"
+  },
+  {
+    "con": "Nếu tổng của hai số là 20 và một trong hai số là 8",
+    "re": "thì số còn lại là 12"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài là 10 cm và chiều rộng là 5 cm",
+    "re": "thì diện tích của hình chữ nhật đó là 50 cm²"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 2 và dư 1",
+    "re": "thì số đó là số lẻ"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh",
+    "re": "thì đó là hình lục giác"
+  },
+  {
+    "con": "Nếu một số được nhân với 0",
+    "re": "thì kết quả luôn là 0"
+  },
+  {
+    "con": "Nếu một số nguyên dương được chia cho 3 và không có dư",
+    "re": "thì số đó là bội số của 3"
+  },
+  {
+    "con": "Nếu một đường thẳng cắt hai đường thẳng song song",
+    "re": "thì các góc đối diện sẽ bằng nhau"
+  },
+  {
+    "con": "Nếu một số có chữ số hàng đơn vị là 5",
+    "re": "thì số đó là số lẻ"
+  },
+  {
+    "con": "Trong mặt phẳng \\left(Oxy\\right)cho hai đường tròn (C_{1}: x^2 + y^2 =1; (C_{2}): x^2 + (y-4)^2= 4  và A (2;0), B (\\frac{1}{2};0), C(1;4), D(4;4). Gọi M,N lần lượt thay đổi trên \\left(C_1\\right),\\left(C_2\\right). Giá trị nhỏ nhất của S=MA+ND+2MN bằng",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Một tam giác có ba cạnh a, b, c. Nếu a + b > c và a + c > b và b + c > a",
+    "re": "thì tam giác tồn tại"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2",
+    "re": "thì n là số chẵn"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 3",
+    "re": "thì tổng các chữ số của n cũng chia hết cho 3"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ",
+    "re": "thì góc còn lại là góc vuông"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài l và chiều rộng w",
+    "re": "thì diện tích của hình chữ nhật là S = l \\times w"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0",
+    "re": "thì căn bậc hai của x là một số dương"
+  },
+  {
+    "con": "Nếu một đa giác có n cạnh",
+    "re": "thì tổng các góc trong của đa giác đó là (n-2) \\times 180 độ"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có 2 chữ số",
+    "re": "thì n có thể được viết dưới dạng 10a + b với a, b là các chữ số"
+  },
+  {
+    "con": "Nếu một số thực x và y thỏa mãn x + y = 10",
+    "re": "thì y = 10 - x"
+  },
+  {
+    "con": "Hệ số của x^8 trong khai triển của biểu thức \\mathrm{(4x-1)^{10}}\\left(x^2-\\frac{1}{2}x+\\frac{1}{16}\\right)^3 là",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Tổng của hai số nguyên dương luôn lớn hơn hoặc bằng 2",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có hai cạnh bằng nhau thì nó là tam giác cân",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên chia hết cho 2 thì nó là số chẵn",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu hai góc trong một tam giác có tổng bằng 90 độ thì chúng là góc phụ nhau",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số có chữ số cuối là 0 hoặc 5 thì nó chia hết cho 5",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một biểu thức đại số có dạng ax^2 + bx + c = 0 thì nghiệm của nó có thể được tìm bằng công thức nghiệm",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài và chiều rộng bằng nhau thì nó là hình vuông",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một số nguyên dương được nhân với 0 thì kết quả là 0",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một đa giác có 6 cạnh thì nó được gọi là hình lục giác",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Trong mặt phẳng Oxy, cho điểm P (-3;-2) và đường tròn (C):(x-3)^2 + (y-4)^2 = 36. Từ điểm P kẻ các tiếp tuyến PM và PN tới đường tròn\\left(C\\right)với M, N là các tiếp điểm. Phương trình đường thẳng MN đi qua điểm nào sau đây?",
+    "re": "Câu trả lời đúng"
+  },
+  {
+    "con": "Nếu một tam giác có ba cạnh lần lượt là a, b, c và a + b > c, a + c > b, b + c > a thì tam giác đó tồn tại.",
+    "re": "Tam giác tồn tại"
+  },
+  {
+    "con": "Nếu một số nguyên dương n chia hết cho 2 thì n là số chẵn.",
+    "re": "n là số chẵn"
+  },
+  {
+    "con": "Nếu một đa thức có bậc là n thì số nghiệm của đa thức đó không vượt quá n.",
+    "re": "Số nghiệm không vượt quá n"
+  },
+  {
+    "con": "Nếu hai đường thẳng song song thì chúng không cắt nhau tại bất kỳ điểm nào.",
+    "re": "Không có điểm giao nhau"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có ước số nguyên tố p thì p là một trong các ước số của n.",
+    "re": "p là ước số của n"
+  },
+  {
+    "con": "Nếu một hình chữ nhật có chiều dài l và chiều rộng w thì diện tích của hình chữ nhật đó là A = l * w.",
+    "re": "Diện tích A = l * w"
+  },
+  {
+    "con": "Nếu một số thực x lớn hơn 0 thì x^2 cũng lớn hơn 0.",
+    "re": "x^2 lớn hơn 0"
+  },
+  {
+    "con": "Nếu một số nguyên dương n có tổng các chữ số chia hết cho 3 thì n chia hết cho 3.",
+    "re": "n chia hết cho 3"
+  },
+  {
+    "con": "Nếu một hình tròn có bán kính r thì chu vi của hình tròn đó là C = 2πr.",
+    "re": "Chu vi C = 2πr"
+  }
+]
